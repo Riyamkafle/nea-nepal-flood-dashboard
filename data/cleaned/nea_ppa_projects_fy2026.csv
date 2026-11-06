@@ -1,0 +1,546 @@
+block,sn,developer,project,district,capacity_kw,ppa_date_bs,cod_bs,cod_ad_approx,flag,pdf_page
+operating: NEA subsidiaries,1,Chilime Hydro Power Company Ltd.,Chilime,Rasuwa,22100.0,2054.03.11,2060.05.08,2003-08-25,,188
+operating: NEA subsidiaries,2,Upper Tamakoshi Hydropower Ltd.,Upper Tamakoshi,Dolkha,456000.0,2067.09.14,2078.05.04,2021-08-20,,188
+operating: NEA subsidiaries,3,Sanjen Hydropower Co.Limited,Upper Sanjen,Rasuwa,14800.0,2068.06.23,2080.06.21,2023-10-08,,188
+operating: NEA subsidiaries,4,Sanjen Hydropower Company Limited,Sanjen,Rasuwa,42500.0,2068.08.19,2081.09.01,2024-12-16,,188
+operating: NEA subsidiaries,5,Rasuwagadhi Hydropower Company Ltd.,Rasuwagadhi,Rasuwa,111000.0,2068.07.28,2081.09.16,2024-12-31,,188
+operating: NEA subsidiaries,6,Middle Bhotekoshi Jalbidhyut Company Ltd.,Middle Bhotekoshi,Sindhupalchowk,102000.0,2068.07.28,2082.06.20,2025-10-06,,188
+operating: IPP hydro,1,Himal Power Ltd.,Khimti Khola,Dolakha,60000.0,2052.10.01,2057.03.27,2000-07-11,,188
+operating: IPP hydro,2,Bhotekoshi Power Company Ltd.,Upper Bhotekoshi Khola,Sindhupalchowk,45000.0,2053.04.06,2057.10.11,2001-01-24,,188
+operating: IPP hydro,3,Syange Electricity Company Limited,Syange Khola,Lamjung,183.0,2058.10.03,2058.10.10,2002-01-23,,188
+operating: IPP hydro,4,National Hydro Power Company Ltd.,Indrawati - III,Sindhupalchowk,7500.0,2054.09.15,2059.06.21,2002-10-07,,188
+operating: IPP hydro,5,Butwal Power Company Ltd.,Jhimruk Khola,Pyuthan,12000.0,2058.03.29,2051.05.01,1994-08-17,COD before PPA date (check),188
+operating: IPP hydro,6,Butwal Power Company Ltd.,Andhi Khola,Syangza,9400.0,2058.03.29,2071.12.22,2015-04-05,,188
+operating: IPP hydro,7,Arun Valley Hydropower Development Co. (P.) Ltd.,Piluwa Khola Small,Sankhuwasabha,3000.0,2056.10.09,2060.06.01,2003-09-18,,188
+operating: IPP hydro,8,Rairang Hydro Power Development Co. (P) Ltd.,Rairang Khola,Dhading,500.0,2059.08.27,2061.08.01,2004-11-16,,188
+operating: IPP hydro,9,Sanima Hydropower (Pvt.) Ltd.,Sunkoshi Small,Sindhupalchowk,2500.0,2058.07.28,2061.12.11,2005-03-24,,188
+operating: IPP hydro,10,Alliance Power Nepal Pvt.Ltd.,Chaku Khola,Sindhupalchowk,3000.0,2056.11.03,2062.03.01,2005-06-15,,188
+operating: IPP hydro,11,Khudi Hydropower Ltd.,Khudi Khola,Lamjung,4000.0,2058.03.04,2063.09.15,2006-12-30,,188
+operating: IPP hydro,12,Unique Hydel Co. Pvt.Ltd.,Baramchi Khola,Sindhupalchowk,4200.0,2058.12.14,2063.09.27,2007-01-11,,188
+operating: IPP hydro,13,Thoppal Khola Hydro Power Co. Pvt. Ltd.,Thoppal Khola,Dhading,1650.0,2059.11.23,2064.07.13,2007-10-30,,188
+operating: IPP hydro,14,Gautam Buddha Hydropower (Pvt.) Ltd.,Sisne Khola Small,Palpa,750.0,2061.04.29,2064.06.01,2007-09-18,,188
+operating: IPP hydro,15,Kathmandu Small Hydropower Systems Pvt. Ltd.,Sali Nadi,Kathmandu,250.0,2062.04.24,2064.08.01,2007-11-17,,188
+operating: IPP hydro,16,Khoranga Khola Hydropower Dev. Co. Pvt. Ltd.,Pheme Khola,Panchthar,995.0,2057.12.31,2064.08.05,2007-11-21,,188
+operating: IPP hydro,17,Unified Hydropower (P.) Ltd.,Pati Khola Small,Parbat,996.0,2062.10.28,2065.10.27,2009-02-09,,188
+operating: IPP hydro,18,Task Hydropower Company (P.) Ltd.,Seti-II,Kaski,979.0,2063.06.08,2065.11.14,2009-02-25,,188
+operating: IPP hydro,19,Ridi Hydropower Development Co. (P.) Ltd.,Ridi Khola,Gulmi,2400.0,2063.05.08,2066.07.10,2009-10-27,,188
+operating: IPP hydro,20,Centre for Power Dev. And Services (P.) Ltd.,Upper Hadi Khola,Sindhupalchowk,991.0,2064.04.07,2066.07.22,2009-11-08,,188
+operating: IPP hydro,21,Gandaki Hydro Power Co. Pvt. Ltd.,Mardi Khola,Kaski,4800.0,2060.07.07,2066.10.08,2010-01-22,,188
+operating: IPP hydro,22,Himal Dolkha Hydropower Company Ltd.,Mai Khola,Ilam,4455.0,2063.11.19,2067.10.14,2011-01-28,,188
+operating: IPP hydro,23,Baneswor Hydropower Pvt. Ltd.,Lower Piluwa Small,Sankhuwasabha,990.0,2064.07.21,2068.04.01,2011-07-17,,188
+operating: IPP hydro,24,Barun Hydropower Development Co. (P.) Ltd.,Hewa Khola,Sankhuwasabha,4455.0,2061.04.02,2068.04.17,2011-08-02,,188
+operating: IPP hydro,25,Bhagawati Hydropower Development Co. (P.) Ltd.,Bijayapur-1,Kaski,4410.0,2066.03.30,2069.05.04,2012-08-20,,188
+operating: IPP hydro,26,Ngadi Group (P.) Ltd.,Siuri Khola,Lamjung,4950.0,2064.04.17,2069.07.30,2012-11-15,,188
+operating: IPP hydro,27,United Modi Hydropwer Pvt. Ltd.,Lower Modi 1,Parbat,10000.0,2065.10.20,2069.08.10,2012-11-25,,188
+operating: IPP hydro,28,Synergy Power Development (P.) Ltd.,Sipring Khola,Dolakha,9658.0,2065.10.20,2069.10.03,2013-01-16,,188
+operating: IPP hydro,29,Laughing Buddha Power Nepal (P.) Ltd.,Middle Chaku,Sindhupalchowk,1800.0,2066.11.03,2069.11.15,2013-02-26,,188
+operating: IPP hydro,30,Aadishakti Power Dev. Company (P.) Ltd.,Tadi Khola (Thaprek),Nuwakot,5000.0,2061.12.15,2069.12.14,2013-03-27,,188
+operating: IPP hydro,31,Ankhu Khola Jal Bidhyut Co. (P.) Ltd.,Ankhu Khola - 1,Dhading,8400.0,2066.02.22,2070.05.05,2013-08-21,,188
+operating: IPP hydro,32,Nepal Hydro Developer Pvt. Ltd.,Charanawati Khola,Dolakha,3520.0,2067.01.13,2070.02.24,2013-06-07,,188
+operating: IPP hydro,33,Laughing Buddha Power Nepal Pvt. Ltd.,Lower Chaku Khola,Sindhupalchowk,1800.0,2063.07.02,2070.04.24,2013-08-08,,189
+operating: IPP hydro,34,Bhairabkunda Hydropower Pvt. Ltd.,Bhairab Kunda,Sindhupalchowk,3000.0,2065.08.02,2071.02.22,2014-06-05,,189
+operating: IPP hydro,35,Radhi Bidyut Company Ltd.,Radhi Khola,Lamjung,4400.0,2066.10.18,2071.02.31,2014-06-14,,189
+operating: IPP hydro,36,Pashupati Environmental Eng. Power Co. Pvt. Ltd.,Chhote Khola,Gorkha,993.0,2067.11.09,2071.03.09,2014-06-23,,189
+operating: IPP hydro,37,Mailung Khola Hydro Power Company (P.) Ltd.,Mailung Khola,Rasuwa,5000.0,2058.04.09,2071.03.19,2014-07-03,,189
+operating: IPP hydro,38,Joshi Hydropower Development Company Limited,Upper Puwa -1,Illam,3000.0,2066.01.23,2071.10.01,2015-01-15,,189
+operating: IPP hydro,39,Sanima Mai Hydropower Limited,Mai Khola,Ilam,22000.0,2067.01.08,2071.10.14,2015-01-28,,189
+operating: IPP hydro,40,Bojini Company Private Limited,Jiri Khola Small,Dolakha,2200.0,2065.10.23,2071.11.01,2015-02-13,,189
+operating: IPP hydro,41,Ruru Hydropower Project (P) Ltd.,Upper Hugdi Khola,Gulmi,5000.0,2066.04.04,2071.12.09,2015-03-23,,189
+operating: IPP hydro,42,Prime Hydropower Co. Pvt. Ltd.,Belkhu,Dhading,518.0,2064.04.04,2071.12.30,2015-04-13,,189
+operating: IPP hydro,43,Api Power Company Pvt. Ltd.,Naugadh gad Khola,Darchula,8500.0,2067.01.19,2072.05.02,2015-08-19,,189
+operating: IPP hydro,44,Kutheli Bukhari Small Hydropower (P).Ltd,Suspa Bukhari,Dolakha,998.0,2069.04.32,2072.06.03,2015-09-20,,189
+operating: IPP hydro,45,Sanima Mai Hydropower Ltd.,Mai Cascade,Ilam,7000.0,2069.10.12,2072.10.29,2016-02-12,,189
+operating: IPP hydro,46,Chhyangdi Hydropower Limited Panchakanya Mai Hydropower Ltd.,Chhandi,Lamjung,2000.0,2068.12.23,2072.12.13,2016-03-26,,189
+operating: IPP hydro,47,(Previously Mai Valley and prior to that East Nepal),Upper Mai Khola,Ilam,9980.0,2061.12.19,2073.03.09,2016-06-23,,189
+operating: IPP hydro,48,Sayapatri Hydropower Private Limited,Daram Khola A,Baglung,2500.0,2068.12.19,2073.03.12,2016-06-26,,189
+operating: IPP hydro,49,Electro-com and Research Centre Pvt. Ltd.,Jhyadi Khola,Sindhupalchowk,2000.0,2067.01.30,2073.05.31,2016-09-16,,189
+operating: IPP hydro,50,Khani Khola Hydropower Company Pvt. Ltd.,Tungun-Thosne,Lalitpur,4360.0,2069.04.05,2073.07.09,2016-10-25,,189
+operating: IPP hydro,51,Daraudi Kalika Hydro Pvt. Ltd.,Daraudi Khola A,Gorkha,6000.0,2068.05.19,2073.08.13,2016-11-28,,189
+operating: IPP hydro,52,Khani Khola Hydropower Company Pvt. Ltd.,Khani Khola,Lalitpur,2000.0,2069.04.05,2073.08.20,2016-12-05,,189
+operating: IPP hydro,53,Sapsu Kalika Hydropower Co. Pvt. Ltd.,Miya Khola,Khotang,996.0,2069.08.10,2073.09.03,2016-12-18,,189
+operating: IPP hydro,54,Sinohydro-Sagarmatha Power Company (P) Ltd.,"Upper Marsyangdi ""A""",Lamjung,50000.0,2067.09.14,2073.09.17,2017-01-01,,189
+operating: IPP hydro,55,Madi Power Pvt. Ltd.,Upper Madi,Kaski,25000.0,2066.05.21,2073.09.25,2017-01-09,,189
+operating: IPP hydro,56,Panchthar Power Company Pvt. Ltd.,Hewa Khola A,Panchthar,14900.0,2068.05.30,2073.10.22,2017-02-04,,189
+operating: IPP hydro,57,Sanvi Energy pvt. Ltd.,Jogmai,Ilam,7600.0,2069.08.07,2074.01.18,2017-05-01,,189
+operating: IPP hydro,58,Bhugol Energy Dev Compay (P). Ltd,Dwari Khola,Dailekh,3750.0,2069.12.30,2074.01.23,2017-05-06,,189
+operating: IPP hydro,59,Mai Valley Hydropower Private Limited,Upper Mai C,Ilam,5100.0,2068.12.23,2074.04.09,2017-07-24,,189
+operating: IPP hydro,60,Dronanchal Hydropower Co.Pvt.Ltd,Dhunge-Jiri,Dolakha,600.0,2068.09.25,2074.06.01,2017-09-17,,189
+operating: IPP hydro,61,Dibyaswari Hydropower Limited,Sabha Khola,Sankhuwasabha,4000.0,2068.11.17,2074.06.02,2017-09-18,,189
+operating: IPP hydro,62,Puwa Khola-1 Hydropower P. Ltd.,Puwa Khola -1,Ilam,4000.0,2070.10.09,2074.06.23,2017-10-09,,189
+operating: IPP hydro,63,Shibani Hydropower Co. Pvt. Ltd.,Phawa Khola,Taplejung,4950.0,2063.12.01,2074.07.14,2017-10-31,,189
+operating: IPP hydro,64,Mount Kailash Energy Pvt. Ltd.,Thapa Khola,Myagdi,13600.0,2067.10.11,2074.08.22,2017-12-08,,189
+operating: IPP hydro,65,Mandakini Hydropower Limited,Sardi Khola,Kaski,4000.0,2068.11.11,2074.08.23,2017-12-09,,189
+operating: IPP hydro,66,Garjang Upatyaka Hydropower (P.) Ltd.,Chake Khola,Ramechhap,2830.0,2065.11.06,2074.08.28,2017-12-14,,189
+operating: IPP hydro,67,Union Hydropower Pvt Ltd.,Midim Karapu,Lamjung,3000.0,2069.10.28,2074.10.15,2018-01-29,,189
+operating: IPP hydro,68,Syauri Bhumey Microhydro Project,Syauri Bhumey,Nuwakot,23.0,2072.11.16,2074.10.18,2018-02-01,,189
+operating: IPP hydro,69,Molung Hydropower Company Pvt. Ltd.,Molung Khola,Okhaldhunga,7000.0,2069.11.21,2074.12.12,2018-03-26,,189
+operating: IPP hydro,70,Sikles Hydropower Pvt. Ltd.,Madkyu Khola,Kaski,13000.0,2066.08.03,2074.12.19,2018-04-02,,189
+operating: IPP hydro,71,Himal Dolkha Hydropower Company Ltd.,Mai sana Cascade,Ilam,8000.0,2069.11.14,2074.12.26,2018-04-09,,189
+operating: IPP hydro,72,Barahi Hydropower Pvt.ltd,Theule Khola,Baglung,1500.0,2066.12.16,2075.03.24,2018-07-08,,189
+operating: IPP hydro,73,Leguwa Khola Laghu Jalbidhyut Sahakari Sastha Ltd.,Leguwa Khola,Dhankuta,40.0,2072.11.21,2075.03.28,2018-07-12,,189
+operating: IPP hydro,74,Super Mai Hydropower Pvt. Ltd.,Super Mai,Illam,7800.0,2073.12.06,2075.07.11,2018-10-28,,189
+operating: IPP hydro,75,Chimal Gramin Bidhyut Sahakari Sanstha Ltd.,Sobuwa Khola-2 MHP,Taplejung,90.0,2074.11.15,2075.07.14,2018-10-31,,189
+operating: IPP hydro,76,Deurali Bahuudesiya Sahakari Sanstha Ltd.,Midim Khola,Lamjung,100.0,2070.02.20,2075.09.04,2018-12-19,,189
+operating: IPP hydro,77,Bindhyabasini Hydropower Development Co. (P.) Ltd.,Rudi Khola A,Lamjung and Kaski,8800.0,2069.10.28,2075.12.04,2019-03-18,,189
+operating: IPP hydro,78,Mandu Hydropower Ltd.,Bagmati Khola Small,Makawanpur/Lalitpur,32000.0,2069.10.07,2075.12.19,2019-04-02,,190
+operating: IPP hydro,79,Salmanidevi Hydropower (P). Ltd,Kapadi Gad,Doti,3330.0,2069.12.11,2076.02.25,2019-06-08,,190
+operating: IPP hydro,80,Eastern Hydropower Pvt. Ltd.,Pikhuwa Khola,Bhojpur,5000.0,2066.07.24,2076.02.27,2019-06-10,,190
+operating: IPP hydro,81,Mountain Hydro Nepal Pvt. Ltd.,Tallo Hewa Khola,Panchthar,22100.0,2071.04.09,2076.04.21,2019-08-06,,190
+operating: IPP hydro,82,Pashupati Environmental Power Co. Pvt. Ltd.,Lower Chhote Khola,Gorkha,997.0,2072.08.04,2076.05.20,2019-09-06,,190
+operating: IPP hydro,83,United Idi Mardi and R.B. Hydropower Pvt. Ltd.,Upper Mardi,Kaski,7000.0,2073.02.25,2076.06.20,2019-10-07,,190
+operating: IPP hydro,84,Rairang Hydropower Development Company Ltd.,Iwa Khola,Taplejung,9900.0,2070.01.29,2076.06.20,2019-10-07,,190
+operating: IPP hydro,85,Api Power Company Pvt. Ltd.,Upper Naugad Gad,Darchula,8000.0,2073.07.12,2076.07.13,2019-10-30,,190
+operating: IPP hydro,86,Arun Kabeli Power Ltd.,Kabeli B-1,"Taplejung, Panchthar",25000.0,2069.03.29,2076.07.23,2019-11-09,,190
+operating: IPP hydro,87,Rangoon Khola Hydropower Pvt. Ltd.,Jeuligad,Bajhang,996.0,2071.10.20,2076.08.27,2019-12-13,,190
+operating: IPP hydro,88,Dolti Power Company Pvt. Ltd.,Padam Khola,Dailekh,4800.0,2074.08.01,2076.09.08,2019-12-24,,190
+operating: IPP hydro,89,Bindhyabasini Hydropower Development Co. (P.) Ltd.,Rudi Khola B,Lamjung and Kaski,6600.0,2071.4.20,2076.11.05,2020-02-17,,190
+operating: IPP hydro,90,"Ghalemdi Hydro Limited (Previously, Cemat Power Dev Company (P). Ltd.)",Ghalemdi Khola,Myagdi,5000.0,2069.12.30,2076.11.05,2020-02-17,,190
+operating: IPP hydro,91,Terhathum Power Company Pvt. Ltd.,Upper Khorunga,Terhathum,7500.0,2073.07.29,2076.11.17,2020-02-29,,190
+operating: IPP hydro,92,Sagarmatha Jalabidhyut Company Pvt. Ltd.,Super Mai 'A',Illam,9600.0,2074.11.14,2077.02.32,2020-06-14,,190
+operating: IPP hydro,93,Mai Khola Hydropower Pvt. Ltd.,Super Mai Cascade,Illam,3800.0,2074.12.07,2077.03.31,2020-07-15,,190
+operating: IPP hydro,94,Century Energy Pvt. Ltd.,Hadi Khola Sunkoshi A,Sindhupalchowk,997.0,2074.05.05,2077.05.12,2020-08-28,,190
+operating: IPP hydro,95,Rawa Energy Development Pvt. Ltd.,Upper Rawa,Khotang,3000.0,2073.04.24,2077.06.04,2020-09-20,,190
+operating: IPP hydro,96,Himalayan Hydropower Pvt. Ltd.,Namarjun Madi,Kaski,11880.0,2066.05.30,2077.06.12,2020-09-28,,190
+operating: IPP hydro,97,Manakamana Engineering Hydropower Pvt. Ltd.,Ghatte Khola,Dolakha,5000.0,2070.04.28,2077.07.23,2020-11-08,,190
+operating: IPP hydro,98,Civil Hydropower Pvt. Ltd.,Bijayapur 2 Khola Small,Kaski,4500.0,2072.09.12,2077.11.18,2021-03-02,,190
+operating: IPP hydro,99,Taksar-Pikhuwa Hydropower Pvt. Ltd.,Taksar Pikhuwa,Bhojpur,8000.0,2073.09.01,2078.01.01,2021-04-14,,190
+operating: IPP hydro,100,Shiva Shree Hydropower (P.) Ltd.,Upper Chaku A,Sindhupalchowk,22200.0,2067.05.22,2078.02.01,2021-05-15,,190
+operating: IPP hydro,101,Mountain Energy Nepal Ltd.(Previously Robust Energy Pvt. Ltd.),Mistri Khola,Myagdi,42000.0,2067.10.20,2078.03.03,2021-06-17,,190
+operating: IPP hydro,102,Singati Hydro Energy Pvt. Ltd.,Singati Khola,Dolakha,25000.0,2070.07.27,2078.04.17,2021-08-01,,190
+operating: IPP hydro,103,Richet Jalbidhyut Company Pvt. Ltd.,Richet Khola,Gorkha,4980.0,2073.02.23,2078.04.28,2021-08-12,,190
+operating: IPP hydro,104,Samling Power Company Pvt. Ltd.,Mai Beni,Illam,9510.0,2073.07.26,2078.06.01,2021-09-17,,190
+operating: IPP hydro,105,Modi Energy Ltd. (Prv. Manang Trade Link Pvt. Ltd.),Lower Modi,Parbat,20000.0,2068.05.20,2078.06.14,2021-09-30,,190
+operating: IPP hydro,106,Asian Hydropower Pvt. Ltd.,Lower Jogmai,Illam,6200.0,2074.12.07,2078.07.15,2021-11-01,,190
+operating: IPP hydro,107,Green Ventures Pvt. Ltd.,Likhu-IV,Ramechhap,52400.0,2067.10.19,2078.07.21,2021-11-07,,190
+operating: IPP hydro,108,Chhyangdi Hydropower Limited,Upper Chhyangdi Khola,Lamjung,4000.0,2074.03.22,2078.08.24,2021-12-10,,190
+operating: IPP hydro,109,Universal Power Company Ltd.,Lower Khare,Dolakha,11000.0,2069.10.22,2078.09.06,2021-12-21,,190
+operating: IPP hydro,110,Three Star Hydropower Company Ltd.,Sapsup Khola,Khotang,6600.0,2075.03.25,2078.09.23,2022-01-07,,190
+operating: IPP hydro,111,Numbur Himalaya Hydropower Pvt. Ltd.,Likhu Khola A,Solukhumbu/Ramechap,29040.0,2071.11.22,2078.10.25,2022-02-08,,190
+operating: IPP hydro,112,Upper Solu Hydroelectric Company Pvt. Ltd,Solu Khola,Solukhumbu,23500.0,2070.07.24,2078.11.08,2022-02-20,,190
+operating: IPP hydro,113,Upper Syange Hydropower P. Ltd.,Upper Syange Khola,Lamjung,2400.0,2072.06.14,2078.11.15,2022-02-27,,190
+operating: IPP hydro,114,Buddha Bhumi Nepal Hydro Power Co. Pvt. Ltd.,Lower Tadi,Nuwakot,4993.0,2070.12.10,2078.12.10,2022-03-24,,190
+operating: IPP hydro,115,Arun Valley Hydropower Development Company Ltd.,Kabeli B-1 Cascade,Panchthar,9940.0,2075.08.09,2078.12.12,2022-03-26,,190
+operating: IPP hydro,116,Upper Hewa Khola Hydropower Co. Pvt. Ltd.,Upper Hewa Khola Small,Sankhuwasabha,8500.0,2072.09.23,2078.12.19,2022-04-02,,190
+operating: IPP hydro,117,Makar Jitumaya Suri Hydropower Ltd. (Prv. Suri Khola Hydropower Pvt. Ltd.),Suri Khola,Dolakha,6400.0,2072.02.20,2079.01.18,2022-05-01,,190
+operating: IPP hydro,118,Nyadi Hydropower Limited,Nyadi,Lamjung,30000.0,2072.02.12,2079.01.27,2022-05-10,,190
+operating: IPP hydro,119,Himalaya Urja Bikas Co. Pvt. Ltd.,Upper Khimti,Ramechhap,12000.0,2067.10.09,2079.02.04,2022-05-18,,190
+operating: IPP hydro,120,Himalaya Urja Bikas Co. Ltd.,Upper Khimti II,Ramechhap,7000.0,2069.12.09,2079.02.17,2022-05-31,,190
+operating: IPP hydro,121,Himalayan Power Partner Pvt. Ltd.,Dordi Khola,Lamjung,27000.0,2069.03.01,2079.06.14,2022-09-30,,190
+operating: IPP hydro,122,Dordi Khola Jal Bidyut Company Ltd. 180 NEPAL ELECTRICITY AUTHORITY,Dordi-1 Khola,Lamjung,12000.0,2071.07.19,2079.06.14,2022-09-30,,190
+operating: IPP hydro,123,Aashutosh Energy Pvt. Ltd.,Chepe Khola Small,Lamjung,8630.0,2075.02.15,2079.06.16,2022-10-02,,191
+operating: IPP hydro,124,Saidi Power Co. (Pvt.) Ltd.,Saiti Khola,Kaski,999.0,2077.06.13,2079.07.01,2022-10-18,,191
+operating: IPP hydro,125,Swet-Ganga Hydropower and Construction Ltd.,Lower Likhu,Ramechhap,28100.0,2073.09.14,2079.07.19,2022-11-05,,191
+operating: IPP hydro,126,Balephi Hydropower Limited (Prv. Huaning Development Pvt. Ltd.),Upper Balephi A,Sindhupalchowk,36000.0,2072.08.29,2079.08.06,2022-11-22,,191
+operating: IPP hydro,127,People's Power Limited,Puwa - 2,Illam,4960.0,2074.05.05,2079.08.12,2022-11-28,,191
+operating: IPP hydro,128,Liberty Hydropower Pvt. Ltd.,Upper Dordi A,Lamjung,25000.0,2069.06.02,2079.08.17,2022-12-03,,191
+operating: IPP hydro,129,Middle Modi Hydropower Ltd.,Middle Modi,Parbat,18000.0,2069.08.21,2079.09.07,2022-12-22,,191
+operating: IPP hydro,130,Mid Solu Hydropower Company Pvt. Ltd.,Mid Solu Khola,Solukhumbu,9500.0,2075.04.21,2079.09.15,2022-12-30,,191
+operating: IPP hydro,131,Kalanga Hydro Pvt. Ltd.,Kalangagad,Bajhang,15330.0,2072.03.15,2079.10.27,2023-02-10,,191
+operating: IPP hydro,132,Sanigad Hydro Pvt. Ltd.,Upper Kalangagad,Bajhang,38460.0,2072.03.15,2079.11.06,2023-02-18,,191
+operating: IPP hydro,133,Hydro Venture Private Limited,Solu Khola (Dudhkoshi),Solukhumbu,86000.0,2071.11.13,2079.11.17,2023-03-01,,191
+operating: IPP hydro,134,Bikash Hydropower Company Pvt. Ltd.,Upper Machha Khola Small,Gorkha,4550.0,2075.07.11,2079.11.17,2023-03-01,,191
+operating: IPP hydro,135,Menchhiyam Hydropower Pvt. Ltd.,Upper Piluwa Khola 2,Sankhuwasabha,4720.0,2072.05.11,2079.11.22,2023-03-06,,191
+operating: IPP hydro,136,Makari Gad Hydropower Pvt. Ltd. Super Madi Hydropower Ltd.,Makarigad,Darchula,10000.0,2072.08.29,2079.11.27,2023-03-11,,191
+operating: IPP hydro,137,(Previously Himal Hydro and General Construction Ltd.),Super Madi,Kaski,44000.0,2073.10.27,2079.12.27,2023-04-10,,191
+operating: IPP hydro,138,Rapti Hydro and General Construction Pvt. Ltd.,Rukumgad,Rukum,5000.0,2073.03.07,2079.12.28,2023-04-11,,191
+operating: IPP hydro,139,Peoples' Hydropower Company Pvt. Ltd.,Super Dordi 'Kha',Lamjung,54000.0,2071.11.13,2080.02.08,2023-05-22,,191
+operating: IPP hydro,140,Beni Hydropower Project Pvt. Ltd.,Upper Solu,Solukhumbu,19800.0,2069.09.16,2080.03.01,2023-06-16,,191
+operating: IPP hydro,141,Maya Khola Hydropower Co. Pvt. Ltd.,Maya Khola,Sankhuwasabha,14900.0,2070.08.30,2080.03.22,2023-07-07,,191
+operating: IPP hydro,142,Gaughar Ujjyalo Sana Hydropower Co. Pvt. Ltd.,Ghatte Khola Small,Sindhupalchowk,970.0,2074.11.11,2080.04.13,2023-07-29,,191
+operating: IPP hydro,143,Global Hydropower Associate Pvt. Ltd.,Likhu-2,Solukhumbu/Ramechap,52465.0,2071.11.19,2080.04.15,2023-07-31,,191
+operating: IPP hydro,144,River Falls Hydropower Development Pvt. Ltd.,Down Piluwa,Sankhuwasabha,10300.0,2071.10.18,2080.04.25,2023-08-10,,191
+operating: IPP hydro,145,Api Power Company Ltd.,Upper Chameliya,Darchula,40000.0,2075.11.15,2080.04.28,2023-08-13,,191
+operating: IPP hydro,146,Bungal Hydro Pvt. Ltd. (Previously Sanigad Hydro Pvt. Ltd.),Upper Sanigad,Bajhang,10700.0,2072.03.15,2080.05.02,2023-08-19,,191
+operating: IPP hydro,147,Myagdi Hydropower Pvt. Ltd.,Ghar Khola,Myagdi,14000.0,2073.02.11,2080.05.08,2023-08-25,,191
+operating: IPP hydro,148,Gelun Hydropower Co.Pvt.Ltd,Gelun,Sindhupalchowk,3200.0,2068.09.25,2080.08.15,2023-12-01,,191
+operating: IPP hydro,149,Makar Jitumaya Hydropower Pvt. Ltd.,Upper Suri,Dolakha,7000.0,2075.04.10,2080.08.21,2023-12-07,,191
+operating: IPP hydro,150,Ridge Line Energy Pvt. Ltd.,Super Chepe,Gorkha Lamjung,9050.0,2075.12.19,2080.10.08,2024-01-22,,191
+operating: IPP hydro,151,Mathillo Mailung Khola Jalbidhyut Ltd. (Prv. Molnia Power Ltd.),Upper Mailun,Rasuwa,14300.0,2068.05.23,2080.10.28,2024-02-11,,191
+operating: IPP hydro,152,Yambling Hydropower Pvt. Ltd.,Yambling Khola,Sindhupalchowk,7270.0,2072.09.29,2080.11.08,2024-02-20,,191
+operating: IPP hydro,153,Paan Himalaya Energy Private Limited,Likhu-1,Solukhumbu/Ramechap,77000.0,2071.11.19,2080.12.19,2024-04-01,,191
+operating: IPP hydro,154,Nilgiri Khola Hydropower Co. Ltd.,Nilgiri Khola-2 Cascade,Myagdi,71000.0,2074.03.05,2080.12.24,2024-04-06,,191
+operating: IPP hydro,155,Ingwa Hydro Power Pvt. Ltd,Upper Ingwa khola,Taplejung,9700.0,2068.03.10,2080.12.28,2024-04-10,,191
+operating: IPP hydro,156,Bhujung Hydropower Pvt. Ltd.,Upper Midim,Lamjung,7500.0,2074.05.29,2081.01.06,2024-04-18,,191
+operating: IPP hydro,157,Unitech Hydropower Co. Pvt. Ltd. Sanima Middle Tamor Hydropower,Upper Phawa,Taplejung,5800.0,2074.11.11,2081.01.08,2024-04-20,,191
+operating: IPP hydro,158,Ltd. (Prv. Tamor Sanima Energy Pvt.,Middle Tamor,Taplejung,73000.0,2073.09.26,2081.01.23,2024-05-05,,191
+operating: IPP hydro,159,Ltd.) Chirkhwa Hydropower Pvt. Ltd.,Upper Chirkhwa,Bhojpur,4700.0,2073.03.01,2081.02.20,2024-06-02,,191
+operating: IPP hydro,160,Parbat Paiyun Khola Hydropower Company Pvt. Ltd.,Seti Khola,Parbat,3500.0,2074.02.22,2081.03.07,2024-06-21,,191
+operating: IPP hydro,161,Champawati Hydropower Pvt. Ltd,Chepe khola A,Lamjung,7000.0,2075.11.07,2081.03.25,2024-07-09,,191
+operating: IPP hydro,162,Mount Everest Power Development Pvt. Ltd.,Dudhkunda Khola,Solukhumbu,12000.0,2075.04.01,2081.04.16,2024-07-31,,191
+operating: IPP hydro,163,Nilgiri Khola Hydropower Co. Ltd.,Nilgiri Khola,Myagdi,38000.0,2073.11.30,2081.04.21,2024-08-05,,191
+operating: IPP hydro,164,Rising Hydropower Compnay Ltd.,Selang Khola,Sindhupalchowk,990.0,2069.03.31,2081.05.01,2024-08-17,,191
+operating: IPP hydro,165,Upper Richet Hydropower Pvt. Ltd.,Upper Richet,Gorkha,2000.0,2074.09.20,2081.05.27,2024-09-12,,191
+operating: IPP hydro,166,Vision Lumbini Ltd.,Seti Nadi,Kaski,25000.0,2075.08.06,2081.07.27,2024-11-12,,191
+operating: IPP hydro,167,Snow Rivers Pvt. Ltd.,Super Kabeli A,Taplejung,13500.0,2075.11.02,2081.09.05,2024-12-20,,191
+operating: IPP hydro,168,Sabha Pokhari Hydro Power (P.) Ltd.,Lankhuwa Khola,Sankhuwasabha,5000.0,2074.02.21,2081.10.24,2025-02-06,,191
+operating: IPP hydro,169,Salasungi Power Limited,Sanjen Khola,Rasuwa,78000.0,2072.12.02,2081.10.29,2025-02-11,,191
+operating: IPP hydro,170,Shikhar Power Development Pvt. Ltd.,Bhim Khola,Baglung,4960.0,2075.06.10,2081.11.25,2025-03-09,,192
+operating: IPP hydro,171,Hilton Hydro Energy Pvt. Ltd.,Super Kabeli,Taplejung,12000.0,2075.11.02,2081.12.02,2025-03-15,,192
+operating: IPP hydro,172,Super Hewa Power Company Pvt. Ltd.,Super Hewa,Sankhuwasabha,6000.0,2074.12.27,2082.01.01,2025-04-14,,192
+operating: IPP hydro,173,Upper Lohore Khola Hydropower Co. Pvt. Ltd.,Upper Lohore,Dailekh,4000.0,2074.12.08,2082.01.04,2025-04-17,,192
+operating: IPP hydro,174,Idi Hydropower Co. P. Ltd.,Idi Khola,Kaski,975.0,2070.09.01,2082.01.08,2025-04-21,,192
+operating: IPP hydro,175,Jhyamolongma Hydropower Development Company Pvt. Ltd.,Karuwa Seti,Kaski,32000.0,2074.04.20,2082.01.19,2025-05-02,,192
+operating: IPP hydro,176,Sanvi Energy Pvt. Ltd.,Jogmai Cascade,Illam,5200.0,2075.05.07,2082.03.11,2025-06-25,,192
+operating: IPP hydro,177,Him Consult Pvt. Ltd.,Rele Khola,Myagdi,6000.0,2074.01.28,2082.03.23,2025-07-07,,192
+operating: IPP hydro,178,Him Parbat Hydropower Pvt. Ltd.,Sagu Khola-1,Dolakha,5500.0,2075.04.10,2082.04.08,2025-07-24,,192
+operating: IPP hydro,179,Suryakunda Hydroelectric Pvt. Ltd.,Upper Tadi,Nuwakot,11000.0,2068.12.03,2082.04.12,2025-07-28,,192
+operating: IPP hydro,180,Tundi Power Pvt.Ltd,Rahughat Mangale,Myagdi,35500.0,2075.03.29,2082.04.20,2025-08-05,,192
+operating: IPP hydro,181,Solu Hydropower Limited (Prv. Essel- Clean Solu Hydropower Pvt. Ltd.),Lower Solu,Solukhumbu,82000.0,2070.07.15,2082.04.24,2025-08-09,,192
+operating: IPP hydro,182,Kabeli Hydropower Company Pvt.Ltd.,Kabeli-3,Taplejung,21930.0,2075.10.03,2082.05.08,2025-08-24,,192
+operating: IPP hydro,183,Mabilung Energy (P.) Ltd,Upper Piluwa Khola -3,Sankhuwasabha,4950.0,2075.12.12,2082.06.04,2025-09-20,,192
+operating: IPP hydro,184,Him Parbat Hydropower Pvt. Ltd.,Sagu Khola,Dolakha,20000.0,2075.04.10,2082.06.25,2025-10-11,,192
+operating: IPP hydro,185,Samyukta Urja Pvt. Ltd. (Prv. Sungava Foundation Pvt. Ltd.),Thulo Khola,Myagdi,21300.0,2075.02.17,2082.05.09,2025-08-25,,192
+operating: IPP hydro,186,Him Star Urja Co. Pvt. Ltd.,Buku Kapati,Okhaldhunga and Solukhumbu,5000.0,2074.10.11,2082.05.14,2025-08-30,,192
+operating: IPP hydro,187,Tundi Power Pvt.Ltd,Upper Rahughat,Myagdi,48500.0,2075.03.29,2082.07.07,2025-10-24,,192
+operating: IPP hydro,188,Shaileshwari Power Nepal Pvt. Ltd.,Upper Gaddigad,Doti,1550.0,2075.04.06,2082.07.09,2025-10-26,,192
+operating: IPP hydro,189,Daram Khola Hydro Energy Ltd.,Daram Khola,Baglung and Gulmi,9600.0,2073.10.09,2082.07.23,2025-11-09,,192
+operating: IPP hydro,190,Reliable Hydropower Co. Pvt. Ltd.,Khorunga Khola,Terhathum,4800.0,2069.08.26,2082.09.01,2025-12-16,,192
+operating: IPP hydro,191,Madame Khola Hydropower Pvt. Ltd.,Madame Khola,Kaski,24000.0,2075.04.15,2082.09.12,2025-12-27,,192
+operating: IPP hydro,192,Thulo Khola Hydropower Pvt. Ltd.,Upper thulo Khola-A,Myagdi,22500.0,2075.04.24,2082.12.16,2026-03-30,,192
+operating: IPP hydro,193,Apolo Hydropower Pvt. Ltd.,Buku Khola,Solukhumbu,6000.0,2070.02.02,2082.12.18,2026-04-01,,192
+operating: IPP hydro,194,Lower Irkhuwa Hydropower Co. Pvt. Ltd.,Lower Irkhuwa,Bhojpur,13040.0,2075.02.16,2082.12.27,2026-04-10,,192
+operating: IPP hydro,195,Siddhi Hydropower Company Pvt. Ltd.,Siddhi Khola,Illam,10000.0,2074.05.29,2083.01.24,2026-05-07,,192
+operating: IPP hydro,196,United Mewa Khola Hydropower Pvt. Ltd.,Mewa Khola,Taplejung,50000.0,2074.02.21,2083.02.28,2026-06-11,,192
+operating: IPP hydro,197,White Lotus Power Pvt. Ltd. (Prv. North Summit Hydro Pvt.Ltd.),Hidi Khola,Lamjung,6820.0,2075.10.04,2083.03.12,2026-06-26,,192
+operating: solar,1,Kathmandu Upatyaka Khanepani bewasthapan Board,Solar,Lalitpur,680.4,2069.06.12,2069.07.15,2012-10-31,,192
+operating: solar,2,Surya Power Company Pvt. Ltd.,Bishnu Priya Solar Farm Project,Nawalparasi,960.0,2074.04.08,2075.08.13,2018-11-29,,192
+operating: solar,3,Ridi Hydropower Development Co. Ltd.,Butwal Solar Project,Rupandehi,8500.0,2075.06.09,2077.07.15,2020-10-31,,192
+operating: solar,4,Eco Power Development Company Pvt. Ltd,Mithila Solar PV Electric Project,Dhanusha,10000.0,2075.09.16,2077.11.22,2021-03-06,,192
+operating: solar,5,Api Power Company Ltd.,Chandranigahpur Solar Project,Rautahat,4000.0,2075.04.27,2078.05.06,2021-08-22,,192
+operating: solar,6,Solar Farm Pvt. Ltd.,Belchautara Solar Project,Tanahun,5000.0,2075.04.23,2078.07.01,2021-10-18,,192
+operating: solar,7,Api Power Company Ltd.,Dhalkebar Solar Project,Dhanusha,1000.0,2075.05.03,2078.10.02,2022-01-16,,192
+operating: solar,8,Sagarmatha Energy and Construction Pvt. Ltd.,Dhalkebar Solar Project,Dhanusha,3000.0,2075.06.24,2078.11.21,2022-03-05,,192
+operating: solar,9,Api Power Company Ltd.,Simara Solar Project,Bara,1000.0,2075.05.03,2079.04.08,2022-07-24,,192
+operating: solar,10,National Solar Power Co. Pvt. Ltd.,Grid Connected Solar PV Project (VGF),Nawalparasi,5000.0,2076.11.23,2079.05.27,2022-09-12,,192
+operating: solar,11,Nepal Solar Farm Pvt. Ltd.,Som RadhaKrishna Solar Farm Project (VGF),Kaski,4000.0,2076.11.23,2079.07.14,2022-10-31,,192
+operating: solar,12,G.I. Solar Pvt. Ltd.,"Grid Connected Solar Project, Morang",Morang,6800.0,2078.08.27,2079.12.30,2023-04-13,,192
+operating: solar,13,Saurya Bidhyut Power Pvt. Ltd.,"Grid Connected Solar Project, Nawalparasi",Nawalparasi,2000.0,2077.12.20,2080.01.02,2023-04-15,,192
+operating: solar,14,Pure Energy Pvt. Ltd. 182 NEPAL ELECTRICITY AUTHORITY,"Solar PV Project (1033), Nainapur, Banke, Block-2",Banke,10000.0,2078.08.12,2080.01.18,2023-05-01,,192
+operating: solar,15,Pure Energy Pvt. Ltd.,"Solar PV Project (1032), Nainapur, Banke, Block-1",Banke,10000.0,2078.08.12,2080.09.11,2023-12-27,,193
+operating: solar,16,Jhapa Energy Limited,"Saurya Bidyut Project, Shivasakti",Jhapa,10000.0,2078.08.12,2080.10.10,2024-01-24,,193
+operating: solar,17,Tarai Solar Pvt. Ltd.,Jeera Bhawani Sedhwa Solar,Parsa,7700.0,2080.07.15,2081.12.13,2025-03-26,,193
+operating: solar,18,Tarai Energy Pvt. Ltd.,DDB Solar,Parsa,2300.0,2080.07.15,2081.12.13,2025-03-26,,193
+operating: solar,19,Pashupati Renewables Pvt. Ltd.,Dharamnagar Solar Farm,Kapilvastu,10000.0,2080.08.10,2082.01.04,2025-04-17,,193
+operating: solar,20,Pashupati Renewables Pvt. Ltd.,Dharamnagar Solar Farm-II,Kapilvastu,15000.0,2080.08.10,2082.02.28,2025-06-11,,193
+operating: solar,21,Global Energy and Construction Pvt. Ltd.,Duhabi Solar Project,Sunsari,8000.0,2075.06.25,2082.10.28,2026-02-11,,193
+operating: solar,22,Green Infrastructure Pvt. Ltd,"Solar PV Project, Dhalkebar",Dhanusha,5000.0,2080.09.08,2083.02.30,2026-06-13,,193
+operating: other,1,BAGASSE (IPPs) Indushankar Chini Udhyog Ltd.,Indushankar Chini Udhyog Ltd.,Sarlahi,3000.0,2075.06.10,2078.11.01,2022-02-13,,193
+operating: other,2,Everest Sugar and Chemical Industries Ltd.,Everest Sugar and Chemical Industries Ltd.,Mahottari,3000.0,2075.06.17,2077.10.26,2021-02-08,,193
+under construction: GoN/NEA subsidiaries,1,Raghuganga Hydropower Ltd.,Rahughat,Myagdi,40000.0,2075.12.18,,,,194
+under construction: GoN/NEA subsidiaries,2,Tamakoshi Jalvidyut Company Ltd.,Tamakoshi-V,Dolakha,94800.0,2079.08.14,,,,194
+under construction: GoN/NEA subsidiaries,3,Trishuli Jal Vidhyut Company Ltd.,Upper Trishuli 3B,Rasuwa,37000.0,2074.05.06,,,,194
+under construction: GoN/NEA subsidiaries,4,Modi Jalvidhyut Company Ltd.,Upper Modi 'A',Kaski,42000.0,2080.03.11,,,,194
+under construction: GoN/NEA subsidiaries,5,Modi Jalvidhyut Company Ltd.,Upper Modi,Kaski,18200.0,2080.10.18,,,,194
+under construction: GoN/NEA subsidiaries,6,Tanahun Hydropower Ltd.,Tanahun,Tanahun,140000.0,2075.03.15,,,,194
+under construction: GoN/NEA subsidiaries,7,Jagadulla Hydropower Co. Ltd.,Jagadulla,Dolpa,106000.0,2080.01.27,,,,194
+under construction: GoN/NEA subsidiaries,8,Syarpu Power Company Limited,Syarpu Khola,Rukum,3236.0,2078.04.11,,,,194
+under construction: GoN/NEA subsidiaries,9,Remit Hydro Ltd.,Ghunsa Khola,Taplejung,77500.0,2081.01.21,,,,194
+under construction: IPP hydro,1,Nama Buddha Hydropower Pvt. Ltd.,Tinau Khola Small,Palpa,1665.0,2065.03.31,,,,194
+under construction: IPP hydro,2,Jumdi Hydropower Pvt. Ltd.,Jumdi Khola,Gulmi,1750.0,2066.10.21,,,,194
+under construction: IPP hydro,3,Hira Ratna Hydropower P.ltd,Tadi Khola,Nuwakot,5000.0,2067.01.09,,,,194
+under construction: IPP hydro,4,Energy Engineering Pvt. Ltd.,Upper Mailung A,Rasuwa,6420.0,2067.03.25,,,,194
+under construction: IPP hydro,5,Greenlife Energy Pvt. Ltd.,Khani khola-1,Dolakha,40000.0,2067.06.24,,,,194
+under construction: IPP hydro,6,Water and Energy Nepal Pvt. Ltd.,Badi Gad,Baglung,6600.0,2068.08.13,,,,194
+under construction: IPP hydro,7,Dariyal Small Hydropower Pvt.Ltd,Upper Belkhu,Dhading,996.0,2068.11.28,,,,194
+under construction: IPP hydro,8,Sasha Engingeering Hydropower (P). Ltd,Khani Khola (Dolakha),Dolakha,30000.0,2069.03.25,,,,194
+under construction: IPP hydro,9,Hydro Innovation Pvt. Ltd.,Tinekhu Khola,Dolakha,990.0,2069.06.08,,,,194
+under construction: IPP hydro,10,Salankhu Khola Hydropower Pvt. Ltd.,Salankhu Khola,Nuwakot,2500.0,2069.06.14,,,,194
+under construction: IPP hydro,11,Moonlight Hydropower Pvt. Ltd.,Balephi A,Sindhupalchowk,22140.0,2069.07.14,,,,194
+under construction: IPP hydro,12,Rara Hydropower Development Co. Pvt. Ltd.,Upper Parajuli Khola,Dailekh,2150.0,2069.08.28,,,,194
+under construction: IPP hydro,13,Lohore Khola Hydropower Co. Pvt. Ltd.,Lohore Khola,Dailekh,4200.0,2069.09.08,,,,194
+under construction: IPP hydro,14,Dudhkoshi Power Company Pvt. Ltd.,Rawa Khola,Khotang,6500.0,2069.09.26,,,,194
+under construction: IPP hydro,15,Madhya Midim Jalbidhyut Company P. Ltd.,Middle Midim,Lamjung,4800.0,2069.10.23,,,,194
+under construction: IPP hydro,16,Volcano Hydropower Pvt. Ltd.,Teliya Khola,Dhankuta,996.0,2069.10.25,,,,194
+under construction: IPP hydro,17,Betrawoti Hydropower Company (P).Ltd,Phalankhu Khola,Rasuwa,13700.0,2069.12.06,,,,194
+under construction: IPP hydro,18,Dovan Hydropower Company Pvt. Ltd.,Junbesi Khola,Solukhumbu,5200.0,2069.12.29,,,,194
+under construction: IPP hydro,19,Tallo Midim Jalbidhut Company Pvt. Ltd.,Lower Midim,Lamjung,996.0,2070.01.19,,,,194
+under construction: IPP hydro,20,Tangchhar Hydro Pvt. Ltd,Tangchhahara,Mustang,2200.0,2070.02.20,,,,194
+under construction: IPP hydro,21,Abiral Hydropower Co. Pvt. Ltd. 184 NEPAL ELECTRICITY AUTHORITY,Upper Khadam,Morang,990.0,2070.02.21,,,,194
+under construction: IPP hydro,22,Consortium Power Developers Pvt. Ltd.,Khare Khola,Dolakha,24100.0,2070.07.15,,,,195
+under construction: IPP hydro,23,Rasuwa Hydropower Pvt. Ltd,Phalanku Khola,Rasuwa,7290.0,2071.08.24,,,,195
+under construction: IPP hydro,24,Dipsabha Hydropower Pvt. Ltd.,Sabha Khola A,Sankhuwasabha,9990.0,2071.12.02,,,,195
+under construction: IPP hydro,25,Research and Development Group Pvt. Ltd.,Rupse Khola,Myagdi,4000.0,2071.12.17,,,,195
+under construction: IPP hydro,26,Hydro Empire Pvt. Ltd.,Upper Myagdi,Myagdi,37000.0,2071.12.17,,,,195
+under construction: IPP hydro,27,Chandeshwori Mahadev Khola MH. Co. Pvt. Ltd.,Chulepu Khola,Ramechhap,8520.0,2071.12.23,,,,195
+under construction: IPP hydro,28,Dhaulagiri Kalika Hydro Pvt. Ltd.,Darbang-Myagdi,Myagdi,25000.0,2072.04.28,,,,195
+under construction: IPP hydro,29,Kabeli Energy Limited,Kabeli-A,Panchthar and Taplejung,37600.0,2072.06.07,,,,195
+under construction: IPP hydro,30,Peoples Energy Ltd. (Previously Peoples Hydro Co-operative Ltd.),Khimti-2,Dolakha and Ramechhap,48800.0,2072.06.14,,,,195
+under construction: IPP hydro,31,Chauri Hydropower (P.) Ltd.,Chauri Khola,"Kavrepalanchowk , Ramechhap, Sindhupalchowk, Dolakha",6000.0,2072.06.14,,,,195
+under construction: IPP hydro,32,Diamond Hydropower Pvt. Ltd.,Upper Daraudi-1,Gorkha,10000.0,2072.08.14,,,,195
+under construction: IPP hydro,33,Sano Milti Khola Hydropower Ltd.,Sano Milti,Ramechhap and Dolakha,3000.0,2073.01.13,,,,195
+under construction: IPP hydro,34,Ankhu Hydropower (P.) Ltd.,Ankhu Khola,Dhading,34000.0,2073.01.30,,,,195
+under construction: IPP hydro,35,Him River Power Pvt. Ltd.,Liping Khola,Sindhupalchowk,16260.0,2073.02.28,,,,195
+under construction: IPP hydro,36,Energy Venture Pvt. Ltd.,Upper Lapche,Dolakha,52000.0,2073.04.20,,,,195
+under construction: IPP hydro,37,Sindhujwala Hydropower Ltd.,Upper Nyasem,Sindhupalchowk,41400.0,2073.07.24,,,,195
+under construction: IPP hydro,38,Madhya Tara Khola Hydropower P. Ltd. (Prv. Pahadi Hydro Power Company (P.) Ltd.),Madhya Tara Khola Small,Baglung,2200.0,2073.10.26,,,,195
+under construction: IPP hydro,39,LC Energy Pvt. Ltd. (Prv. Chirkhwa Hydropower Pvt. Ltd.),Lower Chirkhwa,Bhojpur,4060.0,2074.01.20,,,,195
+under construction: IPP hydro,40,Siuri Nyadi Power Pvt. Ltd.,Super Nyadi,Lamjung,40270.0,2074.02.19,,,,195
+under construction: IPP hydro,41,Sewa Hydro Ltd.,Lower Selang,Sindhupalchowk,1500.0,2074.02.22,,,,195
+under construction: IPP hydro,42,Gorakshya Hydropower Pvt. Ltd.,Super Ankhu Khola,Dhading,23500.0,2074.03.15,,,,195
+under construction: IPP hydro,43,Orbit Energy Ltd. (Previously Pokhari Hydropower Company Pvt. Ltd.),Sabha Khola B,Sankhuwasabha,21500.0,2074.03.26,,,,195
+under construction: IPP hydro,44,Saptang Hydro Power Pvt. Ltd.,Saptang Khola,Nuwakot,2500.0,2074.04.08,,,,195
+under construction: IPP hydro,45,Mount Nilgiri Hydropower Company Pvt. Ltd.,Rurubanchu-1,Kalikot,13500.0,2074.05.08,,,,195
+under construction: IPP hydro,46,Himalayan Water Resources and Energy Development Co. Pvt. Ltd.,Upper Chauri,Kavrepalanchowk,6000.0,2074.07.27,,,,195
+under construction: IPP hydro,47,Nasa Hydropower Pvt. Ltd.,Lapche Khola,Dolakha,160000.0,2074.07.29,,,,195
+under construction: IPP hydro,48,IDS Energy Pvt. Ltd.,Lower Khorunga,Terhathum,5500.0,2074.08.24,,,,195
+under construction: IPP hydro,49,Langtang Bhotekoshi Hydropower Company Pvt. Ltd.,Rasuwa Bhotekoshi,Rasuwa,120000.0,2074.09.07,,,,196
+under construction: IPP hydro,50,Nepal Water and Energy Development Company Pvt. Ltd.,Upper Trishuli - 1,Rasuwa,216000.0,2074.10.14,,,,196
+under construction: IPP hydro,51,Seti Khola Hydropower Pvt. Ltd.,Seti Khola,Kaski,22000.0,2074.11.11,,,,196
+under construction: IPP hydro,52,Vision Energy and Power Pvt. Ltd.,Nupche Likhu,Ramechhap,57500.0,2074.11.28,,,,196
+under construction: IPP hydro,53,Omega Energy Developer Pvt. Ltd.,Sunigad,Bajhang,11050.0,2074.11.30,,,,196
+under construction: IPP hydro,54,Gaurishankar Power Development Pvt. Ltd.,Middle Hyongu Khola B,Solukhumbu,22900.0,2074.12.08,,,,196
+under construction: IPP hydro,55,Baraha Multipower Pvt. Ltd.,Irkhuwa Khola B,Bhojpur,15524.0,2075.02.14,,,,196
+under construction: IPP hydro,56,North Summit Hydro Pvt. Ltd.,Nyadi Phidi,Lamjung,21400.0,2075.02.24,,,,196
+under construction: IPP hydro,57,Himali Hydro Fund Pvt. Ltd.,Sona Khola,Taplejung,9000.0,2075.03.14,,,,196
+under construction: IPP hydro,58,Electro Power Company Ltd. (Prv. Sailung Power Company Pvt. Ltd.),Bhotekoshi-1,Sindhupalchowk,44000.0,2075.03.15,,,,196
+under construction: IPP hydro,59,Jalshakti Hydro Company Pvt. Ltd.,Ilep (Tatopani),Dhading,23675.0,2075.03.25,,,,196
+under construction: IPP hydro,60,Arati Power Company Ltd.,Upper Irkhuwa,Bhojpur,14500.0,2075.04.01,,,,196
+under construction: IPP hydro,61,Palun Khola Hydropower Pvt. Ltd.,Palun Khola,Taplejung,21000.0,2075.04.06,,,,196
+under construction: IPP hydro,62,Annapurna Bidhyut Bikas Co. Pvt. Ltd.,Landruk Modi,Kaski,86590.0,2075.04.13,,,,196
+under construction: IPP hydro,63,Kalika Energy Ltd.,Bhotekoshi-5,Sindhupalchowk,46000.0,2075.04.25,,,,196
+under construction: IPP hydro,64,Mewa Developers Pvt. Ltd.,Middle Mewa,Taplejung,73500.0,2075.05.04,,,,196
+under construction: IPP hydro,65,Super Ghalemdi Hydropower Pvt. Ltd.,Super Ghalemdi,Myagdi,9140.0,2075.05.05,,,,196
+under construction: IPP hydro,66,Dibyajyoti Hydropower Pvt. Ltd.,Marsyangdi Besi,Lamjung,50000.0,2075.05.10,,,,196
+under construction: IPP hydro,67,Apex Makalu Hydro Power Pvt. Ltd.,Middle Hongu Khola A,Solukhumbu,22000.0,2075.05.14,,,,196
+under construction: IPP hydro,68,Ichowk Hydropower Pvt. Ltd.,Gohare Khola,Sindhupalchowk,950.0,2075.05.25,,,,196
+under construction: IPP hydro,69,Pike Hydropower Pvt. Ltd.,Likhu Khola,Ramechhap and Okhaldhunga,30000.0,2075.05.26,,,,196
+under construction: IPP hydro,70,Sita Hydro Power Co. Pvt. Ltd.,Nyasim Khola,Sindhupalchowk,35000.0,2075.05.26,,,,196
+under construction: IPP hydro,71,Sushmit Energy Pvt. Ltd.,Kunaban Khola,Myagdi,20000.0,2075.05.29,,,,196
+under construction: IPP hydro,72,Hydro Village Pvt. Ltd.,Myagdi Khola,Myagdi,57300.0,2075.06.04,,,,196
+under construction: IPP hydro,73,Dhading Ankhu Khola Hydro Pvt. Ltd.,Upper Ankhu,Dhading,44000.0,2075.06.14,,,,196
+under construction: IPP hydro,74,Phedi Khola Hydropower Company Pvt. Ltd.,Phedi Khola (Thumlung),Bhojpur,4300.0,2075.06.21,,,,196
+under construction: IPP hydro,75,K.B.N.R. Isuwa Power Limited (Prv. Dolakha Nirman Company Pvt. Ltd.),Isuwa Khola,Sankhuwasabha,97200.0,2075.06.26,,,,196
+under construction: IPP hydro,76,Sita Hydropower Co. Pvt. Ltd.,Dudh Khola,Manang,65000.0,2075.07.11,,,,196
+under construction: IPP hydro,77,Blue Energy Pvt. Ltd.,Super Trishuli,Gorkha and Chitwan,100000.0,2075.07.11,,,,196
+under construction: IPP hydro,78,Kalinchowk Hydropower Ltd.,Sangu (Sorun),Dolakha,5000.0,2075.08.09,,,,196
+under construction: IPP hydro,79,Kasuwa Khola Hydropower Ltd.,Kasuwa Khola,Sankhuwasabha,45000.0,2075.08.13,,,,196
+under construction: IPP hydro,80,Ruru Hydroelectric Company Pvt. Ltd. 186 NEPAL ELECTRICITY AUTHORITY,Rurubanchu Khola-2,Kalikot,12000.0,2075.08.20,,,,196
+under construction: IPP hydro,81,Gumu Khola Bhyakure Hydropower Pvt. Ltd.,Gumu Khola,Dolakha,950.0,2075.08.21,,,,197
+under construction: IPP hydro,82,Alliance Energy Solutions Pvt.Ltd.,Upper Sit Khola,Argakhanchi,905.0,2075.08.23,,,,197
+under construction: IPP hydro,83,Brahamayani Hydropower Pvt. Ltd. (Prv. Ekikrit Byapar Company Pvt. Ltd.),Brahamayani,Sindhupalchowk,35470.0,2075.08.24,,,,197
+under construction: IPP hydro,84,Integrated Hydro Fund Nepal Pvt. Ltd.,Upper Brahamayani,Sindhupalchowk,15150.0,2075.08.24,,,,197
+under construction: IPP hydro,85,Perfect Energy Development Pvt. Ltd,Middle Trishuli Ganga,Nuwakot,15625.0,2075.09.03,,,,197
+under construction: IPP hydro,86,Union Mewa Hydro Ltd.,Mewa Khola,Taplejung,23000.0,2075.10.04,,,,197
+under construction: IPP hydro,87,Sajha Power Development Pvt. Ltd.,Lower Balephi,Sindhupalchowk,20000.0,2075.10.06,,,,197
+under construction: IPP hydro,88,Mount Rasuwa Hydropower Pvt. Ltd.,Midim 1 Khola,Lamjung,13424.0,2075.10.07,,,,197
+under construction: IPP hydro,89,Habitat Power Company Ltd,Hewa Khola “A”,Panchthar,9400.0,2075.10.07,,,,197
+under construction: IPP hydro,90,Ruby Valley Hydropower Company Ltd,Menchet Khola,Dhading,7000.0,2075.10.15,,,,197
+under construction: IPP hydro,91,Dudhpokhari Chepe Hydropower Ltd.,Dudhpokhari Chepe,Gorkha,11000.0,2075.10.15,,,,197
+under construction: IPP hydro,92,Silk Power (Prv. Maa Shakti Engineering & hydropower Pvt. Ltd.),Luja Khola,Solukhumbu,24824.0,2075.10.16,,,,197
+under construction: IPP hydro,93,Sankhuwasabha Power Development Pvt. Ltd.,Super Sabha Khola,Sankhuwasabha,4100.0,2075.10.23,,,,197
+under construction: IPP hydro,94,Barpak Daruadi Hydropower Pvt. Ltd.,Middle Super Daraudi,Gorkha,10000.0,2075.11.23,,,,197
+under construction: IPP hydro,95,River Side Hydro Energy Pvt. Ltd.,Tamor Khola-5,Taplejung,37520.0,2075.12.04,,,,197
+under construction: IPP hydro,96,Hydro Connection Pvt. Ltd.,Rauje Khola,Solukhumbu,17712.0,2075.12.04,,,,197
+under construction: IPP hydro,97,Milke Jaljale Hydropower Pvt.Ltd.,Upper Piluwa Hills,Sankhuwasabha,4990.0,2075.12.04,,,,197
+under construction: IPP hydro,98,Ambe Hydropower Pvt. Ltd.,Upper Bhurundi,Parbat,3750.0,2075.12.10,,,,197
+under construction: IPP hydro,99,Orbit Energy Pvt. Ltd.,Sabha Khola C,Sankhuwasabha,6290.0,2075.12.10,,,,197
+under construction: IPP hydro,100,White Gold Multi Energy Pvt. Ltd. (Prv. Dhaulagiri Civil Electrical and Mechanical Engineering Pvt. Ltd.),Madhya Daram Khola A,Baglung,3000.0,2075.12.26,,,,197
+under construction: IPP hydro,101,Milestone Hydropower Pvt. Ltd. (Prv. Dhaulagiri Civil Electrical and Mechanical Engineering Pvt. Ltd.),Madhya Daram Khola B,Baglung,4500.0,2075.12.26,,,,197
+under construction: IPP hydro,102,Bhalaudi Khola Hydropower Pvt. Ltd.,Bhalaudi Khola,Kaski,2645.0,2076.01.06,,,,197
+under construction: IPP hydro,103,Kalika Construction Pvt. Ltd.,Upper Daraudi B,Gorkha,8300.0,2076.01.09,,,,197
+under construction: IPP hydro,104,Kalika Construction Pvt. Ltd.,Upper Daraudi C,Gorkha,9820.0,2076.01.09,,,,197
+under construction: IPP hydro,105,Super Khudi Hydropower Pvt. Ltd.,Upper Khudi,Lamjung,26000.0,2076.01.11,,,,197
+under construction: IPP hydro,106,Isuwa Energy Pvt. Ltd.,Lower Isuwa Cascade,Sankhuwasabha,40100.0,2077.09.27,2079.11.11,2023-02-23,,197
+under construction: IPP hydro,107,Manang Marsyangdi Hydropower Company Pvt. Ltd.,Manang Marsyangdi,Manang,135000.0,2077.12.09,,,,198
+under construction: IPP hydro,108,Multi Energy Development Pvt. Ltd.,Langtang Khola,Rasuwa,20000.0,2072.09.29,,,,198
+under construction: IPP hydro,109,Dudh koshi Hydropower Private Ltd,Dudhkoshi 2 - Jaleshwor,Solokhumbhu,70000.0,2078.08.06,,,,198
+under construction: IPP hydro,110,Sani Bheri Hydropower Co. Pvt. Ltd,Sani Bheri 3,Rukum,46720.0,2078.08.06,,,,198
+under construction: IPP hydro,111,Melamchi Hydro Pvt.Ltd.,Ribal khola,Sindhupalchowk,998.0,2078.08.10,,,,198
+under construction: IPP hydro,112,Puwa Khola-1 Hydropower Pvt. Ltd.,Aayu Malun khola,Okhaldhunga,21000.0,2078.11.01,,,,198
+under construction: IPP hydro,113,Bigu Hydro Venture Pvt. Ltd.,Pegu Khola,Dolakha,3000.0,2079.03.30,,,,198
+under construction: IPP hydro,114,Halesi Urja Pvt. Ltd.,Madhya Rawa,Khotang,2200.0,2079.05.15,,,,198
+under construction: IPP hydro,115,Mewa Developers Pvt. Ltd,Siwa Khola,Taplejung,9300.0,2079.05.20,,,,198
+under construction: IPP hydro,116,Maulakalika Hydropower Company Pvt. Ltd.,Kalika Kaligandaki,Tanahu,38160.0,2079.05.21,,,,198
+under construction: IPP hydro,117,Jurimba Hydropower Co. Pvt. Ltd.,Jurimba Khola,Sindhupalchowk,7630.0,2079.05.27,,,,198
+under construction: IPP hydro,118,S.K Energy Development Pvt. Ltd.,Shyam Khola,Bhojpur,7200.0,2079.07.17,,,,198
+under construction: IPP hydro,119,Tamor Sanima Energy Pvt. Ltd.,Upper Tamor,Taplejung,255281.0,2079.07.17,,,,198
+under construction: IPP hydro,120,Water Energy Solution Pvt. Ltd.,Upper Deumai,Ilam,8300.0,2079.08.13,,,,198
+under construction: IPP hydro,121,Dynamic Hydro Energy Pvt. Ltd.,Lapche Tamakoshi,Dolakha,42000.0,2079.10.04,,,,198
+under construction: IPP hydro,122,Dynamic Hydro Energy Pvt. Ltd.,Chepe Khola Cascade,Lamjung and Gorkha,2000.0,2079.10.04,,,,198
+under construction: IPP hydro,123,White Flower Energy Company Pvt. Ltd.,Upper Chhujung,Sankhuwasabha,40700.0,2079.10.29,,,,198
+under construction: IPP hydro,124,Simkosh Hydropower Pvt. Ltd.,Simkosh Khola,Myagdi,3450.0,2079.11.11,,,,198
+under construction: IPP hydro,125,Summit Energy Solution Pvt. Ltd,Bakan Khola,Sankhuwasabha,44000.0,2079.11.11,,,,198
+under construction: IPP hydro,126,Kali Gandaki Gorge Hydropower Co. Pvt. Ltd,Kaligandaki Gorge,Myagdi,180000.0,2079.11.17,,,,198
+under construction: IPP hydro,127,National hydro Power Co. Ltd.,Tallo Indrawati,Sindhupalchowk,4153.0,2079.11.25,,,,198
+under construction: IPP hydro,128,Yaru Hydrpower Pvt. Ltd.,Yaru Khola,Gorkha,30542.0,2079.12.17,,,,198
+under construction: IPP hydro,129,Lower Mid Rawa Khola Hydropower Project Pvt. Ltd.,Lower Mid Rawa,Khotang,4000.0,2080.01.28,,,,198
+under construction: IPP hydro,130,Water Energy Development Pvt. Ltd.,Machha Khola,Gorkha,16000.0,2080.03.04,,,,198
+under construction: IPP hydro,131,Hydro Support Pvt. Ltd.,Middle Kaligandaki,Myagdi,66300.0,2080.03.06,,,,198
+under construction: IPP hydro,132,Sanima Hydropower Ltd.,Jum Khola,Dolakha,55615.0,2080.03.06,,,,198
+under construction: IPP hydro,133,Upper Syange Hydropower Limited,Dovan khola,Gorkha,24500.0,2080.03.07,,,,198
+under construction: IPP hydro,134,Upper Myagdi Hydropower Pvt. Ltd. (Prv. Himalayan Infrastructure Fund Ltd.),Upper Myagdi -1,Myagdi,53500.0,2080.03.11,,,,198
+under construction: IPP hydro,135,Milarepa Energy Pvt. Ltd.,Super Melamchi khola,Sindhupalchowk,23600.0,2080.03.18,,,,198
+under construction: IPP hydro,136,Budhi Gandaki Hydropower Pvt. Ltd.,Super Machha Khola Sana,Gorkha,4600.0,2080.03.21,,,,198
+under construction: IPP hydro,137,Gurkhas Himalayan Hydro Ltd.,Upper Junbesi,Solukhumbu,5875.0,2080.03.22,,,,198
+under construction: IPP hydro,138,Happy Energy Pvt. Ltd. 188 NEPAL ELECTRICITY AUTHORITY,Mathillo Sankhuwa,Sankhuwasabha,40000.0,2080.03.25,,,,198
+under construction: IPP hydro,139,Super Bagmati Hydropower Pvt. Ltd.,Super Tallo Bagmati,Lalitpur,41314.0,2080.03.25,,,,199
+under construction: IPP hydro,140,Expert Hydro Investment Pvt. Ltd.,Sani Bheri,Rukum (East),44520.0,2080.03.27,,,,199
+under construction: IPP hydro,141,Peace Energy Company Pvt. Ltd.,Upper Kabeli,Taplejung,28100.0,2080.04.02,,,,199
+under construction: IPP hydro,142,Samriddhi Energy Ltd.,Bajhang Upper Seti,Bajhang,216000.0,2080.04.19,,,,199
+under construction: IPP hydro,143,Himshila Power Company Ltd.,Gashali Khola,Dhading,4500.0,2080.04.24,,,,199
+under construction: IPP hydro,144,Everest Energy & Infrastructure Fund Pvt. Ltd.,Mudi Khola,Myagdi,14700.0,2080.04.25,,,,199
+under construction: IPP hydro,145,Menchhiyam Hydropower Pvt. Ltd.,Upper Piluwa Khola-1,Sankhuwasabha,7700.0,2080.04.29,,,,199
+under construction: IPP hydro,146,Nar Khola Hydro Energy Pvt. Ltd.,Nar Khola,Manang,61110.0,2080.05.01,,,,199
+under construction: IPP hydro,147,Balephi Energy Pvt. Ltd.,Balephi Khola,Sindhupalchowk,40000.0,2080.05.01,,,,199
+under construction: IPP hydro,148,Annapurna Power Company Pvt. Ltd.,Upper Madi-0,Kaski,43000.0,2080.05.06,,,,199
+under construction: IPP hydro,149,Liberty Energy Company Ltd.,Lodo Khola Small,Lamjung,1600.0,2080.05.18,,,,199
+under construction: IPP hydro,150,Surya Holding Pvt. Ltd.,Upper Mewa Khola 'A',Taplejung,31920.0,2080.05.21,,,,199
+under construction: IPP hydro,151,Nilganga Hydropower Company Pvt. Ltd.,Suti Khola,Manang,21000.0,2080.05.26,,,,199
+under construction: IPP hydro,152,Maa Durga Kali Hydropower Company Pvt. Ltd.,Miwaje Khola,Kaski,4950.0,2080.06.10,,,,199
+under construction: IPP hydro,153,Upper Seti Hydro Pvt. Ltd.,Upper Seti,Kaski,20000.0,2080.06.10,,,,199
+under construction: IPP hydro,154,Niko Energy Ltd.,Upper Bhurundi 'A',Kaski,9000.0,2080.06.15,,,,199
+under construction: IPP hydro,155,Hub Power Pvt. Ltd.,Lower Nyadi,Lamjung,12600.0,2080.06.22,,,,199
+under construction: IPP hydro,156,Spark Hydroelectric Company Ltd.,Tamor Mewa,Taplejung,128000.0,2080.06.24,,,,199
+under construction: IPP hydro,157,Darchula Power Pvt. Ltd.,Madhya Chameliya,Darchula,28304.0,2080.06.29,,,,199
+under construction: IPP hydro,158,Sankhuwasabha Power Development Pvt. Ltd.,Super Sabha Khola A,Sankhuwasabha,9412.0,2080.06.30,,,,199
+under construction: IPP hydro,159,M.A. Power Pvt. Ltd.,Marsyangdi Nadi,Tanahu and Gorkha,90000.0,2080.07.01,,,,199
+under construction: IPP hydro,160,Lalupate Hydropower Company Pvt. Ltd.,Dana Khola,Manang,49950.0,2080.08.05,,,,199
+under construction: IPP hydro,161,Upper Balephi Hydropower Ltd.,Mathilllo Balephi,Sindhupalchowk,46000.0,2080.08.05,,,,199
+under construction: IPP hydro,162,Mandakini Hydropower Ltd.,Upper Sardi Khola,Kaski,2837.0,2080.08.13,,,,199
+under construction: IPP hydro,163,Darkhola Hydropower Pvt. Ltd.,Dar Khola,Myagdi,6500.0,2080.08.15,,,,199
+under construction: IPP hydro,164,Mona Hydropower Ltd.,Bagar Khola,Myagdi,5500.0,2080.08.15,,,,199
+under construction: IPP hydro,165,Sumnima Hydropower Company Pvt. Ltd.,Upper Pikhuwa Khola,Bhojpur,4900.0,2080.08.17,,,,199
+under construction: IPP hydro,166,Crystal Power Development Pvt. Ltd.,Super Tamor,Taplejung,166000.0,2080.10.05,,,,199
+under construction: IPP hydro,167,Bajra Energy Ventures Pvt. Ltd.,Bajra Madi,Kaski,24800.0,2080.10.28,,,,199
+under construction: IPP hydro,168,Alampu Jalbidhyut Bikas Co. Pvt. Ltd.,Mathhilo Sagu,Dolakha,10000.0,2080.10.29,,,,199
+under construction: IPP hydro,169,Gurans Hydro Pvt. Ltd,Sankhuwa Khola,Sankhuwasabha,41060.0,2080.11.08,,,,199
+under construction: IPP hydro,170,Bagmati Water Energy Pvt Ltd.,Malta Bagmati,Lalitpur,6500.0,2080.12.06,,,,199
+under construction: IPP hydro,171,Vision Tesla Power Pvt. Ltd.,Induwa Khola,Sankhuwasabha,24921.0,2081.03.10,,,,200
+under construction: IPP hydro,172,Times Energy Pvt. Ltd,Budi Gandaki,Gorkha,340423.0,2081.03.12,,,,200
+under construction: IPP hydro,173,ABP Energy Pvt. Ltd,Tadi Ghyamphedi,Nuwakot,8000.0,2081.05.17,,,,200
+under construction: IPP hydro,174,Ghandruk Hydro Pvt. Ltd.,Chhomrung Khola,Kaski,4890.0,2081.05.28,,,,200
+under construction: IPP hydro,175,Kang Hydropower Company Ltd.,Upper Maiwa,Taplejung,17850.0,2081.05.30,,,,200
+under construction: IPP hydro,176,S.N. Energy Ltd.,Super Seti,Kaski,24000.0,2081.05.31,,,,200
+under construction: IPP hydro,177,Panch Khapan Hydropower Pvt. Ltd.,Lower HewaKhola-A,Sankhuwasabha,6848.0,2081.06.23,,,,200
+under construction: IPP hydro,178,Dupcheshwor Mahadev Hydro Co. Pvt. Ltd.,Middle Tadi,Nuwakot,5300.0,2081.08.05,,,,200
+under construction: IPP hydro,179,Paropakar Bahu Udesiya Sahakari Sanstha Ltd.,Paropakar Sahakari Laghu,Gulmi,135.0,2081.09.07,,,,200
+under construction: IPP hydro,180,Janasewa Water Turbine tatha Daramkhola Laghu Jalabidhyut Pariyojana Pvt. Ltd,Daram khola Laghu ja.bi.aa.,Gulmi,85.0,2081.09.07,,,,200
+under construction: IPP hydro,181,Upper Marshyangdi Hydropower Company Pvt. Ltd.,Upper Marsyangdi -1,Lamjung,102000.0,2081.09.09,,,,200
+under construction: IPP hydro,182,Himalayan Energy Pvt. Ltd.,Kalinchowk Sana,Dolakha,3000.0,2081.11.19,,,,200
+under construction: IPP hydro,183,Sumnima Hydropower Company Pvt. Ltd.,Pikhuwa Pashupati,Bhojpur,4100.0,2081.11.26,,,,200
+under construction: IPP hydro,184,Halesi Hydropower Pvt. Ltd.,Rawa Khola,Khotang,5400.0,2081.12.10,,,,200
+under construction: IPP hydro,185,Chino Hydropower Ltd.,Chino Khola,Manang,7832.0,2082.01.14,,,,200
+under construction: IPP hydro,186,Seti Khola Hydropower Ltd.,Seti Khola Cascade,Kaski and Tanahu,9800.0,2082.01.17,,,,200
+under construction: IPP hydro,187,Green Gorkha Energy Ltd.,Upper Daraudi,Gorkha,9200.0,2082.03.17,,,,200
+under construction: solar,1,Api Power Company Ltd.,Parwanipur Solar Project,Parsa,8000.0,2075.04.27,,,,200
+under construction: solar,2,Investment Pvt. Ltd.,Project,Dang,3000.0,2075.06.24,,,,200
+under construction: solar,3,First Solar Developers Nepal Pvt. Ltd.,Bhrikuti Grid-tied Solar Project,Kapilvastu,8000.0,2077.12.20,,,,200
+under construction: solar,4,Arga Bhagbati Ventures Pvt. Ltd.,Arga Solar,Argakhanchi,10000.0,2080.08.10,,,,200
+under construction: solar,5,Prime Power Pvt. Ltd,Lamahi Solar Power Project,Dang,10000.0,2080.09.08,,,,200
+under construction: solar,6,Prime Power Pvt. Ltd,Kapilvastu Solar 10 MW Grid,Kapilvastu,30000.0,2081.01.10,,,,200
+under construction: solar,7,Positive Energy Pvt. Ltd 190 NEPAL ELECTRICITY AUTHORITY,"Connected Solar PV Project, Kapilvastu, Block- 1",Kapilvastu,10000.0,2082.02.26,,,,200
+under construction: solar,8,Positive Energy Pvt. Ltd,"Grid Connected Solar PV Project Part-2, Ganeshpur, Kapilvastu",Kapilvastu,10000.0,2082.02.26,,,,201
+under construction: solar,9,Rapti Urja Pvt. Ltd,"Grid Connected Solar Power Project, Rolpa",Rolpa,50000.0,2082.02.29,,,,201
+under construction: solar,10,Sol Power Limited,Parasi Solar Power Project,Parasi,15000.0,2082.02.29,,,,201
+under construction: solar,11,Sol Power Limited,New Nepalgunj Solar PV Project,Banke,30000.0,2082.02.29,,,,201
+under construction: solar,12,Sol Power Limited,Bhurigaun-1 Solar Power Project,Bardiya,25000.0,2082.02.29,,,,201
+under construction: solar,13,Sol Power Limited,Sunawal Solar PV Project,Nawalparasi,15000.0,2082.02.29,,,,201
+under construction: solar,14,Sol Power Limited,Krishnapur Solar Power Project,Kanchanpur,15000.0,2082.02.29,,,,201
+under construction: solar,15,J.B.N. Surya Urja Pvt. Ltd.,Gadhawa Solar PV,Dang,1000.0,2082.05.05,,,,201
+under construction: solar,16,Terra Sol Energy Company Ltd.,Dhalkebar Solar Project,Mahottari,20000.0,2082.06.27,,,,201
+under construction: solar,17,Lamahi Energy Limited,Rapti Dovan Solar Power Project,Dang,30000.0,2082.08.02,,,,201
+third table (PPA-signed): hydro IPPs,1,(Without Balephi Jalbidhyut Co. Ltd.,Financial Closure) Balephi,Sindhupalchowk,23520.0,2067.09.08,,,,202
+third table (PPA-signed): hydro IPPs,2,Himali Rural Electric Co-operative Ltd.,Leguwa Khola Small,Dhankuta,640.0,2074.02.08,,,,202
+third table (PPA-signed): hydro IPPs,3,Nyam Nyam Hydropower Company Pvt. Ltd.,Nyam Nyam Khola,Rasuwa,6000.0,2074.03.27,,,,202
+third table (PPA-signed): hydro IPPs,4,Khechereswor Jal Vidhyut Pvt. Ltd.,Jadari Gad Small,Bajhang,1000.0,2074.10.12,,,,202
+third table (PPA-signed): hydro IPPs,5,Khechereswor Jal Vidhyut Pvt. Ltd.,Salubyani Gad Small,Bajhang,233.0,2074.10.12,,,,202
+third table (PPA-signed): hydro IPPs,6,Jhilimili Hydropower Co. Pvt. Ltd.,Gulangdi Khola,Gulmi,980.0,2075.02.24,,,,202
+third table (PPA-signed): hydro IPPs,7,Amar Jyoti Hydro Power Pvt. Ltd.,Istul Khola,Gorkha,1506.0,2075.05.13,,,,202
+third table (PPA-signed): hydro IPPs,8,Masina Paryatan Sahakari Sanstha Ltd.,Masina,Kaski and Tanahu,891.0,2075.06.02,,,,202
+third table (PPA-signed): hydro IPPs,9,Sindhujwala Hydropower Ltd.,Upper Nyasem Khola A,Sindhupalchowk,21000.0,2075.10.06,,,,202
+third table (PPA-signed): hydro IPPs,10,Jal Urja Pvt. Ltd.,Nuagad,Darchula,1000.0,2075.11.03,,,,202
+third table (PPA-signed): hydro IPPs,11,Helambu Construction Pvt. Ltd,Ksumti Khola Small,Sindhupalchowk,683.0,2075.11.29,,,,202
+third table (PPA-signed): hydro IPPs,12,Dipjyoti Hydropower Pvt. Ltd.,Khani Khola,Dolakha,550.0,2078.08.10,,,,202
+third table (PPA-signed): hydro IPPs,13,Dynamic Power Pvt. Ltd.,Manahari Khola,Makwanpur,4444.0,2079.08.13,,,,202
+third table (PPA-signed): hydro IPPs,14,Sangrila Urja Pvt. Ltd.,Chhujung Khola,Sankhuwasabha,63000.0,2079.12.17,,,,202
+third table (PPA-signed): hydro IPPs,15,Himalayan Engineering and Energy Pvt. Ltd.,Arun Khola-2,Nawalpur,2000.0,2080.03.21,,,,202
+third table (PPA-signed): hydro IPPs,16,Om Power Company Pvt. Ltd.,Thuligad Khola,Doti and Kailali,17000.0,2080.04.09,,,,202
+third table (PPA-signed): hydro IPPs,17,Butwal Power Company Ltd.,Lower Manang Marsyangdi,Manang,139200.0,2080.04.30,,,,202
+third table (PPA-signed): hydro IPPs,18,Tiplyang Kaligandaki Hydropower Pvt. Ltd.,Tiplyang Kaligandaki,Myagdi,58000.0,2080.05.19,,,,202
+third table (PPA-signed): hydro IPPs,19,Ganesh Himal Hydropower Pvt. Ltd.,Ankhu Khola-2,Dhading,20000.0,2080.05.22,,,,202
+third table (PPA-signed): hydro IPPs,20,Nilganga Hydropower Company Pvt. Ltd.,Khimti-Ghwang Khola,Dolakha and Ramechhap,9000.0,2080.05.26,,,,202
+third table (PPA-signed): hydro IPPs,21,Shangrila Hydropower Pvt. Ltd.,Jaldigad,Rukum (West),20731.0,2080.05.26,,,,202
+third table (PPA-signed): hydro IPPs,22,Gulmi Hydro Pvt. Ltd.,Lower Rupse,Myagdi,1860.0,2080.05.27,,,,202
+third table (PPA-signed): hydro IPPs,23,Koplang Energy Hydropower Pvt. Ltd.,Lower Khani B,Dolakha,6200.0,2080.06.07,,,,202
+third table (PPA-signed): hydro IPPs,24,Iceland Power Pvt. Ltd.,Garjang Khola,Ramechhap,900.0,2080.06.22,,,,202
+third table (PPA-signed): hydro IPPs,25,Matribhumi Hydropower Development Company Pvt. Ltd.,Sishuwa Khola,Sankhuwasabha,13500.0,2080.06.30,,,,202
+third table (PPA-signed): hydro IPPs,26,Trishuli Cascade Power Pvt. Ltd.,Upper Trishuli-1 Cascade,Rasuwa,24600.0,2080.07.19,,,,202
+third table (PPA-signed): hydro IPPs,27,Alliance Energy Solutions Pvt. Ltd.,Syalque Khola,Manang,4800.0,2080.08.17,,,,202
+third table (PPA-signed): hydro IPPs,28,Kanchan Urja Pvt. Ltd.,Gandigad Small,Baitadi,1000.0,2080.08.19,,,,202
+third table (PPA-signed): hydro IPPs,29,Shrestha Energy Solution Pvt. Ltd.,Upper Seti-1,Kaski,13000.0,2080.09.06,,,,202
+third table (PPA-signed): hydro IPPs,30,Devdhunga Malika Hydropower Company Pvt. Ltd.,Dev dhunga Chaku,Sindhupalchowk,3412.0,2080.09.06,,,,202
+third table (PPA-signed): hydro IPPs,31,Shikhar Power Development Ltd.,Lower Bhim Khola Cascade,Baglung,6050.0,2080.10.04,,,,202
+third table (PPA-signed): hydro IPPs,32,Naulo Nepal Hydro Electric Pvt. Ltd.,"Budhigandaki ""Ka""",Gorkha,103400.0,2081.01.03,,,,202
+third table (PPA-signed): hydro IPPs,33,Naulo Nepal Hydro Electric Pvt. Ltd.,"Budhigandaki ""Kha""",Gorkha,226000.0,2081.01.03,,,,202
+third table (PPA-signed): hydro IPPs,34,Dhaulashree Power Company Pvt. Ltd.,Dhaula Khola,Myagdi,10600.0,2081.02.11,,,,202
+third table (PPA-signed): hydro IPPs,35,Manakamana Daraudi Hydropower Company Ltd.,Daraudi Nadi,Gorkha,9840.0,2081.02.28,,,,202
+third table (PPA-signed): hydro IPPs,36,Harmony Initiatives Pvt. Ltd,Lapa Khola,Dhading,4720.0,2081.02.29,,,,202
+third table (PPA-signed): hydro IPPs,37,Karnali Jalashrot Limited,Syano Khola,Myagdi,4750.0,2081.05.12,,,,202
+third table (PPA-signed): hydro IPPs,38,Ana Multipurpose Company Pvt. Ltd.,Kisedi Khola,Lamjung,4100.0,2081.05.13,,,,202
+third table (PPA-signed): hydro IPPs,39,Trikal Power Company Pvt. Ltd,Thaligad,Darchula,2000.0,2081.05.17,,,,202
+third table (PPA-signed): hydro IPPs,40,Silk Power Pvt. Ltd,Luja Khola Cascade,Solukhumbu,9540.0,2081.05.19,,,,202
+third table (PPA-signed): hydro IPPs,41,Ramjanaki Hydropower Pvt. Ltd.,Apsuwa Khola-1,Sankhuwasabha,22248.0,2081.06.06,,,,202
+third table (PPA-signed): hydro IPPs,42,Ramjanaki Hydropower Pvt. Ltd.,Mathhilo Apsuwa Khola,Sankhuwasabha,35150.0,2081.06.21,,,,202
+third table (PPA-signed): hydro IPPs,43,S.C. Power Co. Pvt.Ltd.,Tila-1,Kalikot,298750.0,2081.07.07,,,,202
+third table (PPA-signed): hydro IPPs,44,S.C. Power Co. Pvt. Ltd. 192 NEPAL ELECTRICITY AUTHORITY,Tila-2,Kalikot,296740.0,2081.07.07,,,,202
+third table (PPA-signed): hydro IPPs,45,Bhojpur Shiwalaya Power Pvt. Ltd.,Super Irkhuwa,Bhojpur,4925.0,2081.11.18,,,,203
+third table (PPA-signed): hydro IPPs,46,Waleng Tumhok Hydropower Pvt. Ltd.,Upper Maya Khola,Sankhuwasabha,5000.0,2082.01.19,,,,203
+third table (PPA-signed): hydro IPPs,47,Magic Arun Hydropower Pvt. Ltd.,Isuwa PROR Cascade-3,Sankhuwasabha,9950.0,2082.02.29,,,,203
+third table (PPA-signed): hydro IPPs,48,Aspire Power Company Pvt. Ltd,Pikhuwa Khola (Khawa),Bhojpur,6740.0,2082.02.29,,,,203
+third table (PPA-signed): hydro IPPs,49,Bagthala Hydro Pvt. Ltd,Lower Kalangagad,Bajhang,8000.0,2082.03.06,,,,203
+third table (PPA-signed): hydro IPPs,50,Bista Energy House Pvt. Ltd,Isuwa PROR Cascade-2,Sankhuwasabha,9950.0,2082.03.13,,,,203
+third table (PPA-signed): hydro IPPs,51,Tallosera Hydro Ltd.,Sanibheri Uttarganga Micro Hydro,Rukum East,998.0,2082.03.15,,,,203
+third table (PPA-signed): hydro IPPs,52,Chitwan Energy Limited,Lower Thulo Khola,Myagdi,4750.0,2082.03.16,,,,203
+third table (PPA-signed): hydro IPPs,53,Kanchanjangha Hydro Energy Pvt. Ltd,Super Iwa Khola Small,"Taplejung, Panchthar",4795.0,2082.04.26,,,,203
+third table (PPA-signed): hydro IPPs,54,Suvarambha Hydropower Pvt. Ltd.,Madhya Molung Khola Small,Okhaldhunga,6000.0,2082.05.09,,,,203
+third table (PPA-signed): hydro IPPs,55,Tirija Hydropower Pvt. Ltd,Tirija Khola,Myagdi,9710.0,2082.05.13,,,,203
+third table (PPA-signed): hydro IPPs,56,Chhodingmo NBU Hydropower Pvt. Ltd,Parbati kunda,Rasuwa,990.0,2082.09.24,,,,203
+third table (PPA-signed): hydro IPPs,57,Tawa Nova Energy Pvt. Ltd,Lower Tawa Khola,Taplejung,7100.0,2082.12.10,,,,203
+third table (PPA-signed): solar IPPs,1,G.C. Solar Energy Group Pvt. Ltd.,"Grid Connected Solar Electricity Project, Birendranagar, Surkhet",Surkhet,1200.0,2078.09.19,,,,203
+third table (PPA-signed): solar IPPs,2,East Solar Pvt. Ltd.,Baigundhura Solar Power,Jhapa,5000.0,2079.07.17,,,,203
+third table (PPA-signed): solar IPPs,3,Sun Light Renewable Energy Pvt. Ltd.,Aurahi Solar Power Project,Mahottari,5000.0,2082.05.13,,,,203
+third table (PPA-signed): solar IPPs,4,Sun Light Renewable Energy Pvt. Ltd.,Garuda Solar Power Project,Rautahat,5000.0,2082.06.05,,,,203
+third table (PPA-signed): solar IPPs,5,Kalika Sun Power Pvt. Ltd.,Janaki Solar Power Project,Banke,5000.0,2082.07.09,,,,203
+third table (PPA-signed): solar IPPs,6,Solaeris Energy Pvt. Ltd.,Kusaha Solar Power Project,Sunsari,50000.0,2082.07.30,,,,203
+third table (PPA-signed): solar IPPs,7,Prime Solar Pvt. Ltd,Loharpatti Solar Power Project,Mahottari,20000.0,2082.08.08,,,,203
+third table (PPA-signed): solar IPPs,8,Mithila Solar Energy Pvt. Ltd.,Haripur Solar Power Project,Sarlahi,10000.0,2082.08.16,,,,203
+third table (PPA-signed): solar IPPs,9,Bhairavnath Green Energy Pvt. Ltd.,Bhairavnath Solar Power Project,Palpa,10000.0,2082.08.17,,,,203
+third table (PPA-signed): solar IPPs,10,Eco Global Power Development Private Limited,Ganeshman Solar Power Project,Dhanusha,9500.0,2082.08.25,,,,203
+third table (PPA-signed): solar IPPs,11,Limited,Project,Dhanusha,9500.0,2082.08.25,,,,203
+third table (PPA-signed): solar IPPs,12,Eco Global Power Development Private Limited,Aurahi-2 Solar Power Project,Mahottari,5000.0,2082.08.25,,,,203
+third table (PPA-signed): solar IPPs,13,Eco sun power development,Belauri Solar Power Project,Kanchanpur,9000.0,2082.08.25,,,,203
+third table (PPA-signed): solar IPPs,14,Eco sun power development,Dhulabari Solar Power Project,Jhapa,9500.0,2082.08.25,,,,203
+third table (PPA-signed): solar IPPs,15,Eco sun power development,Baniyani Solar Power Project,Jhapa,9500.0,2082.08.25,,,,203
+third table (PPA-signed): solar IPPs,16,Eco sun power development,Lahan Solar Power Project,Siraha,10000.0,2082.08.25,,,,203
+third table (PPA-signed): solar IPPs,17,Daunnedevi Solar Limited,Daunnedevi Solar Power Project,Nawalparasi,25000.0,2082.08.26,,,,203
+third table (PPA-signed): solar IPPs,18,Devghat Solar Ltd,Devghat Solar Power Project,Tanahu,20000.0,2082.08.26,,,,203
+third table (PPA-signed): solar IPPs,19,Supadeurali Solar Ltd.,Supadeurali Solar Power Project,Argakhanchi,20000.0,2082.08.26,,,,203
+third table (PPA-signed): solar IPPs,20,Resunga Solar Ltd,Resunga Solar Power Project,Gulmi,20000.0,2082.08.26,,,,203
+third table (PPA-signed): solar IPPs,21,Kamdhenu Solar Ltd,Kamdhenu Solar Power Project,Parbat,20000.0,2082.08.26,,,,203
+third table (PPA-signed): solar IPPs,22,Dhorbarahi Solar Limited,Dhorbarahi Solar Power Project,Baglung,20000.0,2082.08.26,,,,203
+third table (PPA-signed): solar IPPs,23,Mahabharat Solar Ltd,Mahabharat Solar Power Project,Dang,10000.0,2082.08.28,,,,203
+third table (PPA-signed): solar IPPs,24,Tilaurakot Solar Ltd,Tilaurakot Solar Power Project,Kapilvastu,10000.0,2082.08.28,,,,203
+third table (PPA-signed): solar IPPs,25,Bageshwori Solar Ltd,Bageshwori Solar Power Project,Banke,10000.0,2082.08.28,,,,203
+third table (PPA-signed): solar IPPs,26,Krishnasaar Solar Ltd,Krishnasaar Solar Power Project,Bardiya,10000.0,2082.08.28,,,,203
+third table (PPA-signed): solar IPPs,27,Bardiya Solar Ltd.,Bardiya Solar Power Project,Bardiya,10000.0,2082.08.28,,,,203
+third table (PPA-signed): solar IPPs,28,Lord Buddha Solar Ltd,Lord Buddha Solar Power Project,Kapilvastu,10000.0,2082.08.28,,,,203
+third table (PPA-signed): solar IPPs,29,Babai Solar Ltd,Babai Solar Power Project,Banke,10000.0,2082.08.28,,,,203
+third table (PPA-signed): solar IPPs,30,Lumbini Solar Ltd,Lumbini Solar Power Project,Kapilvastu,10000.0,2082.08.28,,,,203
+third table (PPA-signed): solar IPPs,31,Badaiyatal Solar Ltd,Badaiyatal Solar Power Project,Bardiya,10000.0,2082.08.28,,,,203
+third table (PPA-signed): solar IPPs,32,Mayadevi Solar Ltd,Mayadevi Solar Power Project,Kapilvastu,5000.0,2082.08.28,,,,203
+third table (PPA-signed): solar IPPs,33,Pvt. Ltd.,Project,Dhanusha,30000.0,2082.09.02,,,,203
+third table (PPA-signed): solar IPPs,34,Pashupati Energy Pvt.Ltd.,Barju Solar Power Project,Sunsari,20000.0,2082.09.03,,,,203
+third table (PPA-signed): solar IPPs,35,Anand Solar Pvt. Ltd.,Ananda Barju Solar Power Project,Sunsari,25000.0,2082.09.03,,,,203
+third table (PPA-signed): solar IPPs,36,Helio Spark Energy Pvt. Ltd,Lahan Helio Solar Power Project,Siraha,10000.0,2082.09.08,,,,204
+third table (PPA-signed): solar IPPs,37,Helio Spark Energy Pvt. Ltd,Nawalpur Helio Solar Power Project,Sarlahi,10000.0,2082.09.08,,,,204
+third table (PPA-signed): solar IPPs,38,Banganga Solar Ltd,Banganga Saurya Vidyut Aayojana,Kapilvastu,10000.0,2082.09.20,,,,204
+third table (PPA-signed): solar IPPs,39,Himalayan Solar Power Pvt. Ltd.,Sitalpati Saurya Vidyut Aayojana,Sankhuwasabha,10000.0,2082.10.18,,,,204
+third table (PPA-signed): solar IPPs,40,Kalika Sun Light Power Pvt. Ltd.,Beldiya Saurya Vidyut Aayojana,Nawalpur,10000.0,2082.10.20,,,,204
+third table (PPA-signed): solar IPPs,41,Baidehi Energy Pvt. Ltd.,Baidehi Saurya Vidyut Aayojana,Rautahat,10000.0,2082.11.04,,,,204
+third table (PPA-signed): solar IPPs,42,Sunsolar Energy Pvt. Ltd,Pokhariya Sunsolar Saurya,Parsa,10000.0,2082.11.15,,,,204
+third table (PPA-signed): solar IPPs,43,Sunsolar Renwables Pvt. Ltd,Kolhabi,Bara,10000.0,2082.11.15,,,,204
+third table (PPA-signed): solar IPPs,44,Sunsolar Green Power Pvt. Ltd,Simraungad Sunsolar,Bara,8000.0,2082.11.15,,,,204
+third table (PPA-signed): solar IPPs,45,Eco Gham Power Company Pvt.Ltd.,"Lalbandi Saurya Vidyut aayojana, Sarlahi",Sarlahi,10000.0,2082.12.16,,,,204
+third table (PPA-signed): solar IPPs,46,Gogreen Energy Pvt. Ltd.,Palpa Saurya Vidyut Aayojana,Nawalparasi,50000.0,2082.12.18,,,,204
+third table (PPA-signed): solar IPPs,47,Sunlight Renewable Energy Pvt. Ltd.,Baudhimai,Rautahat,4500.0,2082.12.20,,,,204
+third table (PPA-signed): solar IPPs,48,Kushal Projects Nepal Pvt. Ltd 194 NEPAL ELECTRICITY AUTHORITY,Bardibas Solar,Mahottari,9500.0,2083.02.04,,,,204

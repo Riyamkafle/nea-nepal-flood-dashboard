@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+data/raw/*.pdf
+_tmp/
+*.bak
+*.bak[0-9]*
+*.bak_*
+*.dump
+dashboard/json/
+_review_root_clutter/
+_verify*
+_v6*
+_conflict*
+dashboard/_*
+__pycache__/
+*.pyc
+node_modules/

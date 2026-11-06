@@ -1,0 +1,42 @@
+fiscal_year,check,expected,actual,status,note
+2020,total_production_gwh == legacy workbook,6012.06,6012.06,pass,
+2020,net_export_gwh == legacy workbook,-1622.0,-1622.0,pass,
+2020,total_available_gwh == legacy workbook,7741.06,7741.06,pass,
+2020,cost_npr_million == legacy workbook,62704.0,62704.0,pass,
+2020,profit_margin_pct == legacy workbook,14.99,14.99,pass,
+2021,total_production_gwh == legacy workbook,6051.74,6051.74,pass,
+2021,net_export_gwh == legacy workbook,-2782.21,-2782.21,pass,
+2021,total_available_gwh == legacy workbook,8877.95,8877.95,pass,
+2021,cost_npr_million == legacy workbook,70718.0,70718.0,pass,
+2021,profit_margin_pct == legacy workbook,7.83,7.83,pass,
+2022,total_production_gwh == legacy workbook,9521.0,9521.0,pass,
+2022,net_export_gwh == legacy workbook,-1050.0,-1050.0,pass,
+2022,total_available_gwh == legacy workbook,11064.0,11064.0,pass,
+2022,cost_npr_million == legacy workbook,70955.0,70955.0,pass,
+2022,profit_margin_pct == legacy workbook,18.55,18.55,pass,
+2023,total_production_gwh == legacy workbook,10536.0,10536.0,pass,
+2023,net_export_gwh == legacy workbook,-487.0,-487.0,pass,
+2023,total_available_gwh == legacy workbook,12369.0,12369.0,pass,
+2023,cost_npr_million == legacy workbook,87639.0,87639.0,pass,
+2023,profit_margin_pct == legacy workbook,12.39,12.39,pass,
+2024,total_production_gwh == legacy workbook,12072.0,12072.0,pass,
+2024,net_export_gwh == legacy workbook,51.0,51.0,pass,
+2024,total_available_gwh == legacy workbook,13967.0,13967.0,pass,
+2024,cost_npr_million == legacy workbook,102491.0,102491.0,pass,
+2024,profit_margin_pct == legacy workbook,11.49,11.49,pass,
+2025,total_production_gwh == legacy workbook,13959.0,13959.0,pass,
+2025,net_export_gwh == legacy workbook,699.0,699.0,pass,
+2025,total_available_gwh == legacy workbook,15640.0,15640.0,pass,
+2025,cost_npr_million == legacy workbook,116210.0,116210.0,pass,
+2025,profit_margin_pct == legacy workbook,7.24,7.24,pass,
+2020,reported system_loss_pct vs energy-balance implied loss (pp),15.27,15.66,FLAG,Basis: energy available; loss = available - domestic - exports. FLAG = reported loss uses a different basis or figure in that report; check definition
+2021,reported system_loss_pct vs energy-balance implied loss (pp),17.18,17.56,FLAG,Basis: energy available; loss = available - domestic - exports. FLAG = reported loss uses a different basis or figure in that report; check definition
+2022,reported system_loss_pct vs energy-balance implied loss (pp),15.38,15.37,pass,Basis: energy available; loss = available - domestic - exports. FLAG = reported loss uses a different basis or figure in that report; check definition
+2023,reported system_loss_pct vs energy-balance implied loss (pp),13.46,13.46,pass,Basis: energy available; loss = available - domestic - exports. FLAG = reported loss uses a different basis or figure in that report; check definition
+2024,reported system_loss_pct vs energy-balance implied loss (pp),12.73,12.73,pass,Basis: energy available; loss = available - domestic - exports. FLAG = reported loss uses a different basis or figure in that report; check definition
+2025,reported system_loss_pct vs energy-balance implied loss (pp),12.26,12.26,pass,Basis: energy available; loss = available - domestic - exports. FLAG = reported loss uses a different basis or figure in that report; check definition
+2021,peak_supply_mw >= peak_demand_mw,1.0,0.0,FLAG,"FLAG is informational: supply can sit slightly below demand (e.g. load shedding, different measurement); not necessarily an error"
+2022,peak_supply_mw >= peak_demand_mw,1.0,1.0,pass,"FLAG is informational: supply can sit slightly below demand (e.g. load shedding, different measurement); not necessarily an error"
+2023,peak_supply_mw >= peak_demand_mw,1.0,1.0,pass,"FLAG is informational: supply can sit slightly below demand (e.g. load shedding, different measurement); not necessarily an error"
+2024,peak_supply_mw >= peak_demand_mw,1.0,1.0,pass,"FLAG is informational: supply can sit slightly below demand (e.g. load shedding, different measurement); not necessarily an error"
+2025,peak_supply_mw >= peak_demand_mw,1.0,1.0,pass,"FLAG is informational: supply can sit slightly below demand (e.g. load shedding, different measurement); not necessarily an error"

@@ -1,0 +1,12 @@
+field,legacy_label_replaced,note,status
+Fiscal_Year column,NOTE,"Gregorian end-year. 2020=FY2019/20, 2021=FY2020/21, 2022=FY2021/22, 2023=FY2022/23, 2024=FY2023/24, 2025=FY2024/25",author_note
+Peak_Supply_MW — 2020,,Not reported in 2019-20 annual report. Get from NEA Statistics Book at nea.org.np,author_note
+IPP_Purchase_GWh — 2020 and 2021,VERIFIED,No NEA Subsidiary category existed yet. IPP = Nepal-based independent producers only.,author_note_definition_unchecked
+IPP_Purchase_GWh — 2022 onwards,VERIFIED,IPP_Purchase includes NEA Subsidiaries + Nepal-based IPPs combined for year-on-year consistency.,author_note_definition_unchecked
+Cost_NPR_Million — all years,DERIVED,Derived as Revenue - Profit. Used because P&L statement format changed between 2020-21 and 2021-22.,derived
+Revenue_NPR_Million — 2020,NOTE,"Own-year report shows 73,760M NPR. The 2020-21 report restates this as 76,076M (audit revision). Own-year used.",author_note
+Profit_NPR_Million — all years,VERIFIED,Net Profit Before Tax. Post-tax figure not used to keep all years consistent.,author_note_definition_unchecked
+Total_Production_GWh,VERIFIED,NEA own generation + IPP purchase only. India imports are excluded (tracked separately as Import_GWh).,author_note_definition_unchecked
+Domestic_Consumption_GWh,VERIFIED,Internal sold/utilized GWh from Highlights table. Excludes electricity exported to India.,author_note_definition_unchecked
+Net_Export_GWh,DERIVED,Calculated: Export_GWh - Import_GWh. Positive = net exporter. Negative = net importer.,derived
+Total_Available_GWh,DERIVED,Calculated: Total_Production_GWh + Import_GWh. Represents all energy available in national grid.,derived

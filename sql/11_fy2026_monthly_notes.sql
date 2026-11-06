@@ -1,0 +1,8 @@
+BEGIN;
+
+UPDATE project_baseline SET notes = notes || ' Monthly table: PDF p.186 (printed p.176); 12 months add to the total and the 21 plant rows add to the report''s hydro total. Report marks FY2025/26 figures provisional (subject to audit). Months under half the median (GWh): Shrawan 0.0. Cause not established by the report. The report describes the 8 July 2025 GLOF flash flood for Rasuwagadhi (PDF p.130-131); for this plant it says only that radial-gate hydraulics were restored ''after the flash flood'' (PDF p.26, undated).' WHERE project_id = 'PRJ-009' AND fiscal_year = 2026 AND notes NOT LIKE '%Monthly table:%';
+UPDATE project_baseline SET notes = notes || ' Monthly table: PDF p.186 (printed p.176); 12 months add to the total and the 21 plant rows add to the report''s hydro total. Report marks FY2025/26 figures provisional (subject to audit). Months under half the median (GWh): Shrawan 2.7. Cause not established by the report.' WHERE project_id = 'PRJ-010' AND fiscal_year = 2026 AND notes NOT LIKE '%Monthly table:%';
+UPDATE project_baseline SET notes = notes || ' Monthly table: PDF p.186 (printed p.176); 12 months add to the total and the 21 plant rows add to the report''s hydro total. Report marks FY2025/26 figures provisional (subject to audit). Months under half the median (GWh): Shrawan 1.7. Cause not established by the report.' WHERE project_id = 'PRJ-011' AND fiscal_year = 2026 AND notes NOT LIKE '%Monthly table:%';
+UPDATE nea_annual_data SET source_report = source_report || ' (provisional, subject to audit)' WHERE fiscal_year = 2026 AND source_report NOT LIKE '%provisional%';
+
+COMMIT;

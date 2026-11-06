@@ -1,0 +1,100 @@
+plant,fiscal_month_no,bs_month,profile,A_last_year_mwh,B_recent3_mwh,n_clean_years_B,lost_month_units,not_generated_A_mwh,not_generated_B_mwh
+Upper Trishuli 3A,2,Bhadra,optimistic,19200.0,28121.5,2,0.7097,13625.8,19957.2
+Upper Trishuli 3A,2,Bhadra,precedent,19200.0,28121.5,2,0.7097,13625.8,19957.2
+Upper Trishuli 3A,2,Bhadra,pessimistic,19200.0,28121.5,2,0.7097,13625.8,19957.2
+Upper Trishuli 3A,3,Aswin,optimistic,32535.0,35362.5,2,1.0,32535.0,35362.5
+Upper Trishuli 3A,3,Aswin,precedent,32535.0,35362.5,2,1.0,32535.0,35362.5
+Upper Trishuli 3A,3,Aswin,pessimistic,32535.0,35362.5,2,1.0,32535.0,35362.5
+Upper Trishuli 3A,4,Kartik,optimistic,33095.0,33095.0,3,1.0,33095.0,33095.0
+Upper Trishuli 3A,4,Kartik,precedent,33095.0,33095.0,3,1.0,33095.0,33095.0
+Upper Trishuli 3A,4,Kartik,pessimistic,33095.0,33095.0,3,1.0,33095.0,33095.0
+Upper Trishuli 3A,5,Mangsir,optimistic,41717.5,41717.5,3,1.0,41717.5,41717.5
+Upper Trishuli 3A,5,Mangsir,precedent,41717.5,41717.5,3,1.0,41717.5,41717.5
+Upper Trishuli 3A,5,Mangsir,pessimistic,41717.5,41717.5,3,1.0,41717.5,41717.5
+Upper Trishuli 3A,6,Poush,optimistic,42532.5,39815.0,3,1.0,42532.5,39815.0
+Upper Trishuli 3A,6,Poush,precedent,42532.5,39815.0,3,1.0,42532.5,39815.0
+Upper Trishuli 3A,6,Poush,pessimistic,42532.5,39815.0,3,1.0,42532.5,39815.0
+Upper Trishuli 3A,7,Magh,optimistic,34297.5,34297.5,3,0.2509,8605.3,8605.3
+Upper Trishuli 3A,7,Magh,precedent,34297.5,34297.5,3,0.7087,24305.3,24305.3
+Upper Trishuli 3A,7,Magh,pessimistic,34297.5,34297.5,3,1.0,34297.5,34297.5
+Upper Trishuli 3A,8,Falgun,optimistic,30100.0,29105.0,3,0.0,0.0,0.0
+Upper Trishuli 3A,8,Falgun,precedent,30100.0,29105.0,3,0.3333,10033.3,9701.7
+Upper Trishuli 3A,8,Falgun,pessimistic,30100.0,29105.0,3,1.0,30100.0,29105.0
+Upper Trishuli 3A,9,Chaitra,optimistic,33052.5,32158.0,3,0.0,0.0,0.0
+Upper Trishuli 3A,9,Chaitra,precedent,33052.5,32158.0,3,0.3333,11017.5,10719.3
+Upper Trishuli 3A,9,Chaitra,pessimistic,33052.5,32158.0,3,1.0,33052.5,32158.0
+Upper Trishuli 3A,10,Baisakh,optimistic,42890.0,39253.0,3,0.0,0.0,0.0
+Upper Trishuli 3A,10,Baisakh,precedent,42890.0,39253.0,3,0.3333,14296.7,13084.3
+Upper Trishuli 3A,10,Baisakh,pessimistic,42890.0,39253.0,3,1.0,42890.0,39253.0
+Upper Trishuli 3A,11,Jestha,optimistic,42387.5,43010.0,3,0.0,0.0,0.0
+Upper Trishuli 3A,11,Jestha,precedent,42387.5,43010.0,3,0.3333,14129.2,14336.7
+Upper Trishuli 3A,11,Jestha,pessimistic,42387.5,43010.0,3,1.0,42387.5,43010.0
+Upper Trishuli 3A,12,Ashad,optimistic,40090.0,37950.0,3,0.0,0.0,0.0
+Upper Trishuli 3A,12,Ashad,precedent,40090.0,37950.0,3,0.1581,6338.1,5999.8
+Upper Trishuli 3A,12,Ashad,pessimistic,40090.0,37950.0,3,1.0,40090.0,37950.0
+Trishuli,2,Bhadra,optimistic,5988.1,7540.1,2,0.7097,4249.6,5351.0
+Trishuli,2,Bhadra,precedent,5988.1,7540.1,2,0.7097,4249.6,5351.0
+Trishuli,2,Bhadra,pessimistic,5988.1,7540.1,2,0.7097,4249.6,5351.0
+Trishuli,3,Aswin,optimistic,6942.7,8620.8,2,1.0,6942.7,8620.8
+Trishuli,3,Aswin,precedent,6942.7,8620.8,2,1.0,6942.7,8620.8
+Trishuli,3,Aswin,pessimistic,6942.7,8620.8,2,1.0,6942.7,8620.8
+Trishuli,4,Kartik,optimistic,7149.0,9235.0,3,1.0,7149.0,9235.0
+Trishuli,4,Kartik,precedent,7149.0,9235.0,3,1.0,7149.0,9235.0
+Trishuli,4,Kartik,pessimistic,7149.0,9235.0,3,1.0,7149.0,9235.0
+Trishuli,5,Mangsir,optimistic,5334.7,9948.0,2,1.0,5334.7,9948.0
+Trishuli,5,Mangsir,precedent,5334.7,9948.0,2,1.0,5334.7,9948.0
+Trishuli,5,Mangsir,pessimistic,5334.7,9948.0,2,1.0,5334.7,9948.0
+Trishuli,6,Poush,optimistic,6888.9,8780.0,3,1.0,6888.9,8780.0
+Trishuli,6,Poush,precedent,6888.9,8780.0,3,1.0,6888.9,8780.0
+Trishuli,6,Poush,pessimistic,6888.9,8780.0,3,1.0,6888.9,8780.0
+Trishuli,7,Magh,optimistic,7732.8,9410.0,3,0.2509,1940.2,2361.0
+Trishuli,7,Magh,precedent,7732.8,9410.0,3,0.7087,5479.9,6668.5
+Trishuli,7,Magh,pessimistic,7732.8,9410.0,3,1.0,7732.8,9410.0
+Trishuli,8,Falgun,optimistic,8452.2,8452.2,3,0.0,0.0,0.0
+Trishuli,8,Falgun,precedent,8452.2,8452.2,3,0.3333,2817.4,2817.4
+Trishuli,8,Falgun,pessimistic,8452.2,8452.2,3,1.0,8452.2,8452.2
+Trishuli,9,Chaitra,optimistic,7015.5,8176.0,3,0.0,0.0,0.0
+Trishuli,9,Chaitra,precedent,7015.5,8176.0,3,0.3333,2338.5,2725.3
+Trishuli,9,Chaitra,pessimistic,7015.5,8176.0,3,1.0,7015.5,8176.0
+Trishuli,10,Baisakh,optimistic,8548.0,10046.0,3,0.0,0.0,0.0
+Trishuli,10,Baisakh,precedent,8548.0,10046.0,3,0.3333,2849.3,3348.7
+Trishuli,10,Baisakh,pessimistic,8548.0,10046.0,3,1.0,8548.0,10046.0
+Trishuli,11,Jestha,optimistic,7620.9,9272.0,3,0.0,0.0,0.0
+Trishuli,11,Jestha,precedent,7620.9,9272.0,3,0.3333,2540.3,3090.7
+Trishuli,11,Jestha,pessimistic,7620.9,9272.0,3,1.0,7620.9,9272.0
+Trishuli,12,Ashad,optimistic,5959.8,6253.0,3,0.0,0.0,0.0
+Trishuli,12,Ashad,precedent,5959.8,6253.0,3,0.1581,942.2,988.6
+Trishuli,12,Ashad,pessimistic,5959.8,6253.0,3,1.0,5959.8,6253.0
+Devighat,2,Bhadra,optimistic,4327.7,5355.9,2,0.7097,3071.3,3801.0
+Devighat,2,Bhadra,precedent,4327.7,5355.9,2,0.7097,3071.3,3801.0
+Devighat,2,Bhadra,pessimistic,4327.7,5355.9,2,0.7097,3071.3,3801.0
+Devighat,3,Aswin,optimistic,5061.5,6099.8,2,1.0,5061.5,6099.8
+Devighat,3,Aswin,precedent,5061.5,6099.8,2,1.0,5061.5,6099.8
+Devighat,3,Aswin,pessimistic,5061.5,6099.8,2,1.0,5061.5,6099.8
+Devighat,4,Kartik,optimistic,5289.8,7241.0,3,1.0,5289.8,7241.0
+Devighat,4,Kartik,precedent,5289.8,7241.0,3,1.0,5289.8,7241.0
+Devighat,4,Kartik,pessimistic,5289.8,7241.0,3,1.0,5289.8,7241.0
+Devighat,5,Mangsir,optimistic,3797.2,7804.0,2,1.0,3797.2,7804.0
+Devighat,5,Mangsir,precedent,3797.2,7804.0,2,1.0,3797.2,7804.0
+Devighat,5,Mangsir,pessimistic,3797.2,7804.0,2,1.0,3797.2,7804.0
+Devighat,6,Poush,optimistic,5262.2,7514.0,3,1.0,5262.2,7514.0
+Devighat,6,Poush,precedent,5262.2,7514.0,3,1.0,5262.2,7514.0
+Devighat,6,Poush,pessimistic,5262.2,7514.0,3,1.0,5262.2,7514.0
+Devighat,7,Magh,optimistic,5865.4,6864.0,3,0.2509,1471.6,1722.2
+Devighat,7,Magh,precedent,5865.4,6864.0,3,0.7087,4156.5,4864.2
+Devighat,7,Magh,pessimistic,5865.4,6864.0,3,1.0,5865.4,6864.0
+Devighat,8,Falgun,optimistic,6484.9,6484.9,3,0.0,0.0,0.0
+Devighat,8,Falgun,precedent,6484.9,6484.9,3,0.3333,2161.6,2161.6
+Devighat,8,Falgun,pessimistic,6484.9,6484.9,3,1.0,6484.9,6484.9
+Devighat,9,Chaitra,optimistic,5531.9,6276.0,3,0.0,0.0,0.0
+Devighat,9,Chaitra,precedent,5531.9,6276.0,3,0.3333,1844.0,2092.0
+Devighat,9,Chaitra,pessimistic,5531.9,6276.0,3,1.0,5531.9,6276.0
+Devighat,10,Baisakh,optimistic,6633.4,7611.0,3,0.0,0.0,0.0
+Devighat,10,Baisakh,precedent,6633.4,7611.0,3,0.3333,2211.1,2537.0
+Devighat,10,Baisakh,pessimistic,6633.4,7611.0,3,1.0,6633.3,7611.0
+Devighat,11,Jestha,optimistic,5597.0,7004.0,3,0.0,0.0,0.0
+Devighat,11,Jestha,precedent,5597.0,7004.0,3,0.3333,1865.7,2334.7
+Devighat,11,Jestha,pessimistic,5597.0,7004.0,3,1.0,5597.0,7004.0
+Devighat,12,Ashad,optimistic,3976.2,4763.0,3,0.0,0.0,0.0
+Devighat,12,Ashad,precedent,3976.2,4763.0,3,0.1581,628.6,753.0
+Devighat,12,Ashad,pessimistic,3976.2,4763.0,3,1.0,3976.2,4763.0
