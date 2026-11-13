@@ -26,7 +26,7 @@ JSONS = {"annual": "annual.json", "trade": "trade.json", "projects": "projects.j
          "evacuation": "evacuation.json", "baseline": "baseline.json"}
 EXPECTED_COUNTS = {"annual": 7, "trade": 14, "projects": 22, "status_log": 24, "events": 4, "sources": 22,
                    "assets": 12, "evacuation": 14, "baseline": 21,
-                   "monthly": 216, "monthly_baseline": 72, "gap": 99, "conflicts": 22, "rdna_claims": 21}
+                   "monthly": 216, "monthly_baseline": 72, "gap": 99, "conflicts": 23, "rdna_claims": 21}
 
 
 def native(o):
