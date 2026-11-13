@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict J6ks4rWCYTsmRt8HDPkhVNMY8YmrRq4nj1g0rQP1jtQ4zrR35gLkCFSV2yXBnh9
+\restrict Uq4wYnnQeNpmtPfeSODOnXA5Ww9mi0asAHCccqdwC83REgcDwhFUKamaJZqSZFc
 
 -- Dumped from database version 18.4
 -- Dumped by pg_dump version 18.4
@@ -457,7 +457,6 @@ SRC-011	NEA Annual Report FY2020/21	Nepal Electricity Authority	data/raw/2020-21
 SRC-012	DoED Power Plants: Hydro (More than 1MW), operating list, page updated 2 Oct 2026 - read via web fetch, unverified	Department of Electricity Development (DoED)	https://doed.gov.np/pages/powerplantsmorethan1/	Primary	2026-10-02	2026-10-13
 SRC-013	DoED Power Plants: Solar, operating list, page updated 2 Oct 2026 - read via web fetch, unverified	Department of Electricity Development (DoED)	https://doed.gov.np/pages/powerplantssolar/	Primary	2026-10-02	2026-10-13
 SRC-014	DoED Construction Licence: Hydro (More than 1MW), page updated 2 Oct 2026 - read via web fetch to row 201 only, unverified	Department of Electricity Development (DoED)	https://doed.gov.np/pages/clhydromorethan1/	Primary	2026-10-02	2026-10-13
-SRC-015	Rapid Damage and Needs Assessment (RDNA), Rasuwa-Bhotekoshi Flood 2026, cut-off 3 Sep 2026	NDRRMA and National Planning Commission (Nepal)	\N	Primary	\N	2026-10-13
 SRC-016	Budhigandaki flood damages four hydropower projects totalling 412.41 MW (Peoples Review, 11 Oct 2026) - read as search excerpt only, unverified	Peoples Review	https://peoplesreview.com.np/2026/10/11/budhigandaki-flood-damages-four-hydropower-projects-totalling-412-41-mw/	Secondary	2026-10-11	2026-10-13
 SRC-017	Budhigandaki floods wreak havoc on 4 under-construction hydropower projects totalling 413 MW (Clickmandu, October 2026) - page fetched, unverified	Clickmandu	https://english.clickmandu.com/2026/10/12009/	Secondary	\N	2026-10-13
 SRC-018	What we know so far about the damage caused by Budhi Gandaki floods (Kathmandu Post, 11 Oct 2026) - read as search excerpt only, unverified	The Kathmandu Post	https://kathmandupost.com/gandaki-province/2026/10/11/what-we-know-so-far-about-the-damage-caused-by-budhi-gandaki-floods	Secondary	2026-10-11	2026-10-13
@@ -465,7 +464,7 @@ SRC-019	Budhigandaki flood damages four hydropower projects, sweeps away camp an
 SRC-020	Budhigandaki flood damages four hydropower projects (Khabarhub, 11 Oct 2026, 12:07 PM) - page read in full, gives Yaru Khola 30.91 MW, unverified	Khabarhub	https://english.khabarhub.com/2026/11/571563/	Secondary	2026-10-11	2026-10-27
 SRC-021	Oct. 2026: Budhi Gandaki Flashflood Affects Four Hydro Projects in Nepal (SANDRP, 13 Oct 2026, updated 15 Oct) - page read in full; text says 412.09 MW, its table says Yaru Khola 30.49 MW (probable typo), unverified	SANDRP	https://sandrp.in/2026/10/13/oct-2026-budhi-gandaki-flashflood-affects-four-hydro-projects-in-nepal/	Secondary	2026-10-13	2026-10-27
 SRC-022	2026 Budhi Gandaki flood (Wikipedia) - accessed 2026-10-27, revision ID not captured; pointer only, no figure taken from it, unverified	Wikipedia	https://en.wikipedia.org/wiki/2026_Budhi_Gandaki_flood	Tertiary	\N	2026-10-27
-SRC-023	Rapid Damage and Needs Assessment (RDNA), Rasuwa-Bhotekoshi Flood 2026 (NDRRMA, September 2026; sector cut-off 3 Sep 2026; estimates not independently verified)	National Disaster Risk Reduction and Management Authority (NDRRMA)	https://ndrrma.gov.np/mediafiles/rasuwa/Rapid_Damage_and_Needs_Assessment_RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf	Primary	\N	2026-11-05
+SRC-015	Rapid Damage and Needs Assessment (RDNA), Rasuwa-Bhotekoshi Flood 2026, cut-off 3 Sep 2026	NDRRMA and National Planning Commission (Nepal)	https://ndrrma.gov.np/mediafiles/rasuwa/Rapid_Damage_and_Needs_Assessment_RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf	Primary	\N	2026-11-05
 \.
 
 
@@ -666,5 +665,5 @@ ALTER TABLE ONLY public.project_status_log
 -- PostgreSQL database dump complete
 --
 
-\unrestrict J6ks4rWCYTsmRt8HDPkhVNMY8YmrRq4nj1g0rQP1jtQ4zrR35gLkCFSV2yXBnh9
+\unrestrict Uq4wYnnQeNpmtPfeSODOnXA5Ww9mi0asAHCccqdwC83REgcDwhFUKamaJZqSZFc
 

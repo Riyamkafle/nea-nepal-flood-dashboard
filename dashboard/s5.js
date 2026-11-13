@@ -78,7 +78,7 @@
         ['recovery_need', 'Indicative recovery needs', 'Assessment estimate'],
         ['portfolio', 'Assessed portfolio before the flood (installed MW)', 'Reported inventory']
       ];
-      var rdna = '<div class="warnbox"><b>Assessment estimates, not observed losses.</b> These figures come from the NDRRMA Rapid Damage and Needs Assessment (SRC-023, sector cut-off 3 Sep 2026). Locating a figure in the report does not verify it. Damage is not economic loss, economic loss is not recovery cost, installed MW is not damaged or unavailable MW, and estimated GWh is not observed generation lost. The four blocks are not additive.</div>';
+      var rdna = '<div class="warnbox"><b>Assessment estimates, not observed losses.</b> These figures come from the NDRRMA Rapid Damage and Needs Assessment (SRC-015, sector cut-off 3 Sep 2026). Locating a figure in the report does not verify it. Damage is not economic loss, economic loss is not recovery cost, installed MW is not damaged or unavailable MW, and estimated GWh is not observed generation lost. The four blocks are not additive.</div>';
       RCAT.forEach(function (c) {
         var rows = RC.filter(function (r) { return r.category === c[0]; });
         if (!rows.length) { return; }

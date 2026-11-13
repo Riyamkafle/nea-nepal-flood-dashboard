@@ -27,9 +27,9 @@ test('rdna_claims: 21 unique claims with the 15 approved columns', () => {
   assert.equal(new Set(C.map(r => r.claim_id)).size, 21);
   C.forEach(r => assert.deepEqual(Object.keys(r).sort(), COLS.slice().sort()));
 });
-test('rdna_claims: fixed values, SRC-023 is a Primary source, EVT-002 only', () => {
-  C.forEach(r => { assert.equal(r.source_id, 'SRC-023'); assert.equal(r.event_id, 'EVT-002'); assert.equal(r.located_in_source, 'Yes'); assert.equal(r.verified, 'No'); });
-  const s = D.sources.find(x => x.source_id === 'SRC-023');
+test('rdna_claims: fixed values, SRC-015 is a Primary source, EVT-002 only', () => {
+  C.forEach(r => { assert.equal(r.source_id, 'SRC-015'); assert.equal(r.event_id, 'EVT-002'); assert.equal(r.located_in_source, 'Yes'); assert.equal(r.verified, 'No'); });
+  const s = D.sources.find(x => x.source_id === 'SRC-015');
   assert.ok(s && s.source_type === 'Primary');
   assert.ok(D.events.some(e => e.event_id === 'EVT-002'));
 });
