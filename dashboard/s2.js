@@ -44,8 +44,8 @@
       '<div class="tablewrap"><table><thead><tr><th>Item</th><th class="num">Projects</th><th class="num">MW</th></tr></thead><tbody>' +
       '<tr><td>Hydropower operating before the disaster</td><td class="num">7</td><td class="num">250.4</td></tr>' +
       '<tr><td>Hydropower under construction</td><td class="num">6</td><td class="num">508.625</td></tr>' +
-      '<tr><td>Solar operating</td><td class="num">5</td><td class="num">24.36</td></tr>' +
-      '<tr><td><b>Total assessed</b></td><td class="num"><b>18</b></td><td class="num"><b>783.385</b></td></tr></tbody></table></div>' +
+      '<tr><td><b>Hydropower total, operating plus under construction (stated in report, Table 34)</b></td><td class="num"><b>13</b></td><td class="num"><b>759.025</b></td></tr>' +
+      '<tr><td>Solar operating (not added to the hydropower total)</td><td class="num">5</td><td class="num">24.36</td></tr></tbody></table></div>' +
       '<div style="margin-top:8px"><span class="stat"><b>NPR 13,469.76 crore</b> energy-sector damage (US$889.21 m)</span><span class="stat"><b>NPR 1,634.69 crore</b> reported losses (US$107.91 m)</span><span class="stat"><b>NPR 39,062.30 crore</b> recovery needs (US$2,578.71 m)</span></div>' +
       '<div class="warnbox">The RDNA loss figure (2,730.48 GWh a year) uses assumed generation and outage periods; it is not measured loss. 67% of the hydropower capacity assessed was still under construction, so it was not producing electricity.' +
       (rd.length ? ' Matching the RDNA totals to named projects here is arithmetic only: ' + rd.map(function (c) { return '<button class="lnk" data-cid="' + esc(c.conflict_id) + '">' + esc(c.conflict_id) + '</button>'; }).join(', ') + '.' : '') + '</div>') + '</div>';
