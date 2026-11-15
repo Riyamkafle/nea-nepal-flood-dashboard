@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict Uq4wYnnQeNpmtPfeSODOnXA5Ww9mi0asAHCccqdwC83REgcDwhFUKamaJZqSZFc
+\restrict 9tK6taLhfifEUu4FeRdxxkOrqjO87uie2HhBA0Y3Oaeve6r4mW8aLB0nqjggMGL
 
 -- Dumped from database version 18.4
 -- Dumped by pg_dump version 18.4
@@ -281,10 +281,10 @@ ALTER TABLE ONLY public.project_status_log ALTER COLUMN log_id SET DEFAULT nextv
 --
 
 COPY public.events (event_id, event_date, description, location, notes) FROM stdin;
-EVT-002	2026-08-26	Bhotekoshi/Trishuli flash flood from Tibet: hydropower, solar and transmission damage	Rasuwa and Nuwakot districts	Date per SRC-004 (Bhadra 10 = 26 Aug 2026).
 EVT-003	2026-09-28	Kaligandaki corridor transmission disruption (landslides)	Kaligandaki corridor	NOT VERIFIED: reported by Kathmandu Post on 28 Sep; article not opened. Separate event from EVT-002: never add MW across events.
 EVT-001	2025-07-08	Lende River flood from Tibet merged with the Bhotekoshi (previous-year event)	Rasuwa	Damaged Rasuwagadhi area infrastructure. Possible baseline contamination: Rasuwagadhi had only recently resumed full operation before EVT-002 (SRC-001). Evidence (SRC-006, NEA FY2025/26 report PDF pp.130-131): Rasuwagadhi COD 2024-12-31 (BS 2081.09.16); this flood (24 Asar 2082) halted generation. Unit 1 partial generation resumed 2025-12-06 (20 Mangsir 2082), unit 2 on 2025-12-25 (10 Poush 2082), unit 3 on 2026-05-14 (31 Baisakh 2083). The report states full restoration and rehabilitation is planned within FY2083/84, so the plant was not fully restored before EVT-002 (2026-08-26). Design energy 613.875 GWh a year (dry months 84.318, wet months 529.557).
 EVT-004	2026-10-11	Budhi Gandaki River flash flood: damage reported at four under-construction hydropower projects	Gorkha district (Budhi Gandaki)	[UNVERIFIED] Preliminary press reports published 11-12 Oct 2026 (SRC-016, SRC-017, SRC-018); exact time not recorded. Cause not established: reports describe a suspected landslide dam and their locations differ. Separate event from EVT-002 (Bhotekoshi/Trishuli, 26 Aug 2026) and EVT-003 (Kaligandaki corridor, 28 Sep 2026): never add their damage together. All four projects named were under construction, so no operating generation is recorded as lost by this event; no operating plant is named in the reports read (inference: operating plants were not assessed). Other projects carry the Budhigandaki name (DoED licences 414, 425 and 426, and the proposed 1,200 MW storage project); they are different projects. [UNVERIFIED][source review 2026-10-27] The four-project damage reports are repeated in My Republica (SRC-019, citing a preliminary IPPAN assessment), Khabarhub (SRC-020), SANDRP (SRC-021) and, as a tertiary pointer only, Wikipedia (SRC-022). All describe damage to camps, equipment, Bailey bridges and access roads at under-construction projects, and say the assessment is still preliminary. A total of 412.94 MW and a five-project list appear in earlier research notes but their origin is untraced - verification pending; not used in any calculation. Stored total stays 412.09 MW; the press total 412.41 MW is in C-019.
+EVT-002	2026-08-26	Bhotekoshi/Trishuli debris-laden flood after an avalanche: hydropower, solar and transmission damage	Rasuwa and Nuwakot districts	Date per SRC-004 (Bhadra 10 = 26 Aug 2026). [UNVERIFIED] Trigger wording: RDNA (SRC-015, PDF pp.6 and 11) states an ice-and-rock avalanche in the upper Lhende Khola watershed, about 20 km upstream of Rasuwagadhi, generated a debris flow. SRC-001 (27 Aug 2026) reports NDRRMA assessing a sudden release of an avalanche-blocked river in Tibet. The earlier wording "flash flood from Tibet" was incomplete. Whether the origin was inside Tibet is not established here. Not registered as a conflict.
 \.
 
 
@@ -665,5 +665,5 @@ ALTER TABLE ONLY public.project_status_log
 -- PostgreSQL database dump complete
 --
 
-\unrestrict Uq4wYnnQeNpmtPfeSODOnXA5Ww9mi0asAHCccqdwC83REgcDwhFUKamaJZqSZFc
+\unrestrict 9tK6taLhfifEUu4FeRdxxkOrqjO87uie2HhBA0Y3Oaeve6r4mW8aLB0nqjggMGL
 
