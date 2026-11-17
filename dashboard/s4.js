@@ -18,9 +18,9 @@
     var tot26 = 0;
     cap26.forEach(function (r) { tot26 += Number(r.export_capacity_mw); });
     var rev = tr.filter(function (r) { return has(r.export_revenue_npr_million); });
-    var h = '<div class="warnbox"><b>Read this before the numbers.</b> Approved export capacity is permission, not flow. It is not actual exports and not available capacity. No trade record exists after the flood: the FY2025/26 report ends before 26 Aug 2026. The FY2025/26 export figure is provisional and disputed (' + cbtn('C-017') + ', ' + cbtn('C-006') + '). Country rows labelled India hold national totals, so they are not an India-only figure. No exportable-power figure is calculated here (see Section 5).</div>';
+    var h = '<div class="warnbox"><b>Read this before the numbers.</b> Approved export capacity is permission, not flow. It is not actual exports and not available capacity. No trade record exists after the flood: the FY2025/26 report ends before 26 Aug 2026. The FY2025/26 export figure is provisional and disputed (' + cbtn('C-017') + ', ' + cbtn('C-006') + '). Country rows labelled India hold national totals, so they are not an India-only figure. No exportable-power figure is calculated here (see Section 6).</div>';
     h += '<div style="margin-top:12px">' + App.card('Annual electricity trade, national, GWh',
-      badge('stated in reports', 'stated') + ' Same series as Section 1. FY2025/26 is provisional.',
+      badge('stated in reports', 'stated') + ' Same series as Section 2. FY2025/26 is provisional.',
       App.table([
         { h: 'Fiscal year', f: function (a) { return esc(a.fiscal_year_label || a.fiscal_year); } },
         { h: 'Exports, GWh', cls: 'num', f: function (a) { return val(a.export_gwh, 0); } },

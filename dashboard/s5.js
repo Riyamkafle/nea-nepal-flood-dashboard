@@ -31,7 +31,7 @@
     var h = '<div class="warnbox"><b>Read this before the numbers.</b> Generation restored does not mean exports restored. Approved export capacity is not actual exports. Peak supply minus peak demand is not a valid surplus estimate and not exportable power. No exportable-power figure is calculated here, because the four inputs are not all established for the same period.</div>';
 
     h += '<h3 style="margin:14px 0 6px">The four inputs to exportable power</h3>' +
-      '<div class="cap">Exportable power is limited by the smallest of these four, all for the same period. Status is derived from the same checks as research question RQ6 in the coverage table (Section 6).</div>' +
+      '<div class="cap">Exportable power is limited by the smallest of these four, all for the same period. Status is derived from the same checks as research question RQ6 in the coverage table (Section 8).</div>' +
       App.table([
         { h: 'Input', f: function (c) { return '<b>' + esc(c.name) + '</b>'; } },
         { h: 'Status', f: function (c) { return badge(c.have ? (c.name === 'Export approvals' ? 'Known (approval only)' : 'Known') : 'Unavailable', c.have ? (c.name === 'Export approvals' ? 'prov' : 'ok') : 'bad'); } },
