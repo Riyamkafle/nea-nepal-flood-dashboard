@@ -147,7 +147,7 @@ table,.kpi .val,.stat{font-variant-numeric:tabular-nums lining-nums}
 .side-foot>img.side-bot{width:100%;height:auto;display:block;border-radius:6px}
 body.side-collapsed .side-top,body.side-collapsed .side-foot>img.side-bot{display:none}
 .topbar{background:#0D4938 url(img/topbar.jpg) center 40%/cover no-repeat;border-bottom:3px solid var(--green);padding:26px 28px 22px}
-.topbar::before{content:"";position:absolute;inset:0;background:rgba(13,73,56,.80);pointer-events:none}
+.topbar::before{content:"";position:absolute;inset:0;background:rgba(13,73,56,.62);pointer-events:none}
 .topbar h1{color:#fff}
 .topbar .sub{color:#DCEBE2}
 .menu-btn{background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.45);color:#fff}
